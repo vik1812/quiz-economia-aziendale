@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Quiz Microeconomia</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app">
+    <header class="topbar">
+      <h1>Quiz Microeconomia</h1>
+      <div class="topbar-right">
+        <button id="btn-reset" class="btn btn-ghost" title="Azzera sessione">Reset</button>
+      </div>
+    </header>
+
+    <!-- HOME -->
+    <section id="screen-home" class="card">
+      <h2>Esercizi Microeconomia</h2>
+      <p class="muted">Domande random, feedback immediato e review finale.</p>
+
+      <div class="grid">
+        <label class="field">
+          <span>Numero di domande</span>
+          <input id="input-count" type="number" min="1" value="10" />
+        </label>
+
+        <label class="field">
+          <span>Modalità</span>
+          <select id="select-mode">
+            <option value="instant" selected>Feedback immediato</option>
+            <option value="exam">Stile esame (feedback alla fine)</option>
+          </select>
+        </label>
+
+        <label class="field checkbox">
+          <input id="check-shuffle" type="checkbox" checked />
+          <span>Mescola risposte</span>
+        </label>
+
+        <label class="field checkbox">
+          <input id="check-only-wrong" type="checkbox" />
+          <span>Ripeti solo sbagliate (se disponibili)</span>
+        </label>
+      </div>
+
+      <div class="actions">
+        <button id="btn-start" class="btn btn-primary">Inizia</button>
+      </div>
+
+      <details class="help">
+        <summary>Come aggiungo le domande?</summary>
+        <p>Apri <code>questions.json</code> e aggiungi oggetti seguendo lo stesso formato. Puoi organizzare per <code>topic</code> e usare <code>explanation</code> per spiegazioni.</p>
+      </details>
+    </section>
+
+    <!-- QUIZ -->
+    <section id="screen-quiz" class="card hidden">
+      <div class="quiz-head">
+        <div class="progress">
+          <div id="progress-bar" class="progress-bar" style="width: 0%"></div>
+        </div>
+        <div class="meta">
+          <span id="meta-counter">0/0</span>
+          <span id="meta-topic" class="pill hidden"></span>
+        </div>
+      </div>
+
+      <h2 id="question-text">Domanda</h2>
+      <div id="answers" class="answers"></div>
+
+      <div id="feedback" class="feedback hidden"></div>
+
+      <div class="actions actions-between">
+  <button id="btn-prev" class="btn btn-ghost">Indietro</button>
+
+  <div class="actions">
+    <button id="btn-end" class="btn btn-ghost">Termina</button>
+    <button id="btn-next" class="btn btn-primary" disabled>Avanti</button>
+  </div>
+</div>
+
+    </section>
+
+    <!-- RESULT -->
+    <section id="screen-result" class="card hidden">
+      <h2>Risultato</h2>
+      <p id="result-summary" class="result"></p>
+
+      <div class="actions">
+        <button id="btn-retry-wrong" class="btn btn-ghost hidden">Ripeti sbagliate</button>
+        <button id="btn-restart" class="btn btn-primary">Nuova sessione</button>
+      </div>
+
+      <h3>Review</h3>
+      <div id="review" class="review"></div>
+    </section>
+
+    <footer class="footer muted">
+      <span>Locale: tutto gira nel browser. Nessun dato inviato online.</span>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

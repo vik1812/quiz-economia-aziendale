@@ -1,1442 +1,1456 @@
-[
+  [
   {
-    "id": "micro_q1",
-    "topic": "Microeconomia",
-    "question": "Il costo implicito e':",
+    "id": "azi_q1",
+    "topic": "Economia Aziendale",
+    "question": "Il soggetto economico e':",
     "choices": [
-      "Il denaro cui si rinuncia al momento del pagamento di un bene.",
-      "Il denaro cui si rinuncia operando una scelta.",
-      "Il costo opportunità.",
-      "Il valore di cio' che si sacrifica al momento in cui si opera una scelta."
+      "Colui al quale fanno capo gli interessi interni d’azienda e in forza di cio' amministra e governa l’impresa.",
+      "Sempre presente nelle societa' di capitali ma mai nelle societa' di persone.",
+      "Colui il quale e' chiamato a rispondere con il proprio patrimonio personale delle obbligazioni della societa'.",
+      "Colui al quale fanno capo gli obblighi e i diritti che sorgono nello svolgimento dell’attivita' d’impresa."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "azi_q2",
+    "topic": "Economia Aziendale",
+    "question": "Nelle imprese pubbliche:",
+    "choices": [
+      "Nessuna delle alternative proposte e' corretta.",
+      "Il soggetto economico e' sempre di tipo privatistico.",
+      "Non vi e' né il soggetto economico né il soggetto giuridico.",
+      "La forma giuridica dell’impresa puo' essere anche quella della societa' commerciale -spa oppure Srl-"
     ],
     "answerIndex": 3
   },
   {
-    "id": "micro_q2",
-    "topic": "Microeconomia",
-    "question": "Il vantaggio assoluto si realizza se:",
+    "id": "azi_q3",
+    "topic": "Economia Aziendale",
+    "question": "Nella societa' in accomandita semplice, chi risponde delle obbligazioni sociali:",
     "choices": [
-      "Si puo' produrre un bene con maggior specializzazione.",
-      "Si puo' produrre un bene con maggiore qualità.",
-      "Si puo' produrre un bene impiegando meno risorse di altri.",
-      "Si puo' produrre un bene con minor costo opportunità."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q3",
-    "topic": "Microeconomia",
-    "question": "Si ha un'esternalità di rete quando:",
-    "choices": [
-      "All'aumentare dei fruitori il prodotto aumenta di valore.",
-      "Al diminuire dei fruitori il prodotto aumenta di valore.",
-      "All'aumentare dei fruitori il prodotto diminuisce di valore.",
-      "I risultati della rete non sono completamente internalizzabili."
+      "I soci accomandanti rispondono limitatamente alla quota sottoscritta, mentre i soci accomandatari rispondono illimitatamente e solidalmente.",
+      "Solo la societa' con il proprio patrimonio.",
+      "I soci accomandantari rispondono limitatamente alla quota sottoscritta, mentre i soci accomandanti rispondono illimitatamente e solidalmente.",
+      "Tutti i soci in maniera illimitata."
     ],
     "answerIndex": 0
   },
   {
-    "id": "micro_q4",
-    "topic": "Microeconomia",
-    "question": "In concorrenza monopolistica l'obiettivo della pubblicità e':",
+    "id": "azi_q4",
+    "topic": "Economia Aziendale",
+    "question": "In quale modello di corporate governance (tra i seguenti) si ha una struttura proprietaria unitaria:",
     "choices": [
-      "Informare gli acquirenti sulle qualità del prodotto.",
-      "Rendere meno rilevante il prezzo come discriminante dell'acquisto.",
-      "Informare gli acquirenti sulle caratteristiche del prodotto.",
-      "Rendere piu' rilevante il prezzo come discriminante dell'acquisto."
+      "Public company",
+      "Impresa padronale",
+      "Outsider system",
+      "Impresa a proprieta' ristretta"
     ],
     "answerIndex": 1
   },
   {
-    "id": "micro_q5",
-    "topic": "Microeconomia",
-    "question": "Si ricorre massicciamente alla pubblicità:",
+    "id": "azi_q5",
+    "topic": "Economia Aziendale",
+    "question": "Gli organi di staff sono:",
     "choices": [
-      "In concorrenza perfetta.",
-      "Tutte false.",
-      "In concorrenza monopolistica.",
-      "In monopolio."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q6",
-    "topic": "Microeconomia",
-    "question": "Un aumento del salario:",
-    "choices": [
-      "Non ha effetto sui costi marginali dell'impresa.",
-      "Aumenta i costi marginali dell'impresa.",
-      "Tutte false.",
-      "Diminuisce i costi marginali dell'impresa."
-    ],
-    "answerIndex": 1
-  },
-  {
-    "id": "micro_q7",
-    "topic": "Microeconomia",
-    "question": "L'imposta sulla spesa, a parità di sacrificio, produce un gettito:",
-    "choices": [
-      "Proporzionale.",
-      "Uguale.",
-      "Meno elevato.",
-      "Piu' elevato."
+      "Organi direttivi",
+      "Organi esecutivi",
+      "Organi volitivi",
+      "Organi di consulenza e supporto"
     ],
     "answerIndex": 3
   },
   {
-    "id": "micro_q8",
-    "topic": "Microeconomia",
-    "question": "A parità di gettito l'imposta sul reddito produce:",
+    "id": "azi_q6",
+    "topic": "Economia Aziendale",
+    "question": "Gli organi di line sono:",
     "choices": [
-      "Nessun sacrificio.",
-      "Un sacrificio minore di quella indiretta.",
-      "Un sacrificio maggiore di quella indiretta.",
-      "Un sacrificio uguale a quella indiretta."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q9",
-    "topic": "Microeconomia",
-    "question": "Il free rider e' un soggetto che ritiene:",
-    "choices": [
-      "Che il bene comune sia inesistente.",
-      "Che il bene comune si realizzi solo con il suo intervento.",
-      "Che il bene comune si realizzi anche senza il suo intervento.",
-      "Che il bene comune si realizzi con il suo intervento."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q10",
-    "topic": "Microeconomia",
-    "question": "Il teorema di Coase sostiene che:",
-    "choices": [
-      "Le imposte indirette sono meno distorsive di quelle dirette.",
-      "Le imposte indirette sono piu' distorsive di quelle dirette.",
-      "Non e' necessario l'intervento dello Stato per porre rimedio alle esternalità.",
-      "E' necessario l'intervento dello Stato per porre rimedio alle esternalità."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q11",
-    "topic": "Microeconomia",
-    "question": "Per i consumatori che esprimono valutazione piu' alta e' conveniente praticare:",
-    "choices": [
-      "Una tariffa pari al costo totale medio.",
-      "Una tariffa pari al costo fisso medio.",
-      "Una tariffa pari al costo marginale.",
-      "Una tariffa pari al costo medio variabile."
-    ],
-    "answerIndex": 0
-  },
-  {
-    "id": "micro_q12",
-    "topic": "Microeconomia",
-    "question": "L'impresa pubblica competitiva:",
-    "choices": [
-      "e' un'impresa di proprietà pubblica in competizione con imprese private.",
-      "e' un'impresa di proprietà pubblica in competizione con altre imprese pubbliche.",
-      "e' un'impresa di proprietà privata in competizione con imprese di proprietà pubblica.",
-      "Tutte false."
-    ],
-    "answerIndex": 0
-  },
-  {
-    "id": "micro_q13",
-    "topic": "Microeconomia",
-    "question": "Con la funzione benthamiana si arriva a sostenere che:",
-    "choices": [
-      "Il benessere della società diminuisce se migliora solo la posizione dei ricchi.",
-      "Il benessere sociale diminuisce se migliora solo la posizione dei poveri.",
-      "Il benessere della società aumenta anche solo se migliora la posizione dei ricchi.",
-      "Il benessere sociale aumenta solo se migliora la posizione dei poveri."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q14",
-    "topic": "Microeconomia",
-    "question": "Un bene privato e':",
-    "choices": [
-      "Non rivale e non escludibile.",
-      "Rivale ed escludibile.",
-      "Rivale ma non escludibile.",
-      "Non rivale ma escludibile."
+      "Nessuna delle affermazioni e' esatta",
+      "Organi direttivi",
+      "Organi di staff",
+      "Organi consultivi"
     ],
     "answerIndex": 1
   },
   {
-    "id": "micro_q15",
-    "topic": "Microeconomia",
-    "question": "Si ha un fallimento del mercato quando:",
+    "id": "azi_q7",
+    "topic": "Economia Aziendale",
+    "question": "Nella struttura organizzativa multidivisionale il lavoro e' suddiviso, in senso verticale, per:",
     "choices": [
-      "Siamo in oligopolio.",
-      "Non si ha equilibrio di mercato.",
-      "L'equilibrio di mercato nono e' economicamente efficiente.",
-      "Le dotazioni degli individui non sono efficienti."
+      "Input, ovvero si segue il criterio della specializzazione per risorse",
+      "Nessuna delle affermazioni e' esatta",
+      "Direzione generale, direzione di divisione e direzione di funzione",
+      "Direzione generale e direzione di funzione"
     ],
     "answerIndex": 2
   },
-{
-  "id": "micro_q16",
-  "topic": "Microeconomia",
-  "question": "Se il prezzo di mercato e' maggiore del costo medio totale minimo:",
+  {
+    "id": "azi_q8",
+    "topic": "Economia Aziendale",
+    "question": "Le strategie che per l’impresa rispondono alla domanda 'dove operare' (ovvero in quali mercati/settori operare) e sono relative alla scelta delle aree d'affari in cui svolgere la propria attivita', sono le:",
+    "choices": [
+      "Strategie competitive",
+      "Strategie di impresa",
+      "Le strategie di capitalizzazione",
+      "Strategie funzionali"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "azi_q9",
+    "topic": "Economia Aziendale",
+    "question": "I valori assegnati ai prodotti finiti venduti:",
+    "choices": [
+      "Vanno sotto il nome di 'valori di ricavo pluriennale'",
+      "Vanno sotto il nome di 'valori di ricavo'",
+      "Nessuna delle alternative esposte e' esatta",
+      "Vanno sotto il nome di 'valori di ricavo anticipato'"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "azi_q10",
+    "topic": "Economia Aziendale",
+    "question": "Un aumento del denaro in cassa da' luogo ad una variazione:",
+    "choices": [
+      "Aumentativa dei crediti di finanziamento",
+      "Numeraria certa positiva",
+      "Numeraria assimilata positiva",
+      "Diminutiva dei crediti di finanziamento"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "azi_q11",
+    "topic": "Economia Aziendale",
+    "question": "Le operazioni della \"fase di scambio\":",
+    "choices": [
+      "Generano variazioni finanziarie negative",
+      "Nessuna delle alternative proposte e' corretta",
+      "Generano variazioni finanziarie positive",
+      "Generano variazioni economiche negative"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "azi_q12",
+    "topic": "Economia Aziendale",
+    "question": "La sommatoria algebrica dei 'valori di costo' e dei 'valori di ricavo' esprime il:",
+    "choices": [
+      "Il capitale",
+      "Il reddito d'esercizio",
+      "Il reddito",
+      "Il capitale d'esercizio"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "azi_q13",
+    "topic": "Economia Aziendale",
+    "question": "Sono variazioni economiche negative:",
+    "choices": [
+      "I costi",
+      "Nessuna delle alternative proposte e' corretta",
+      "I ricavi",
+      "I conferimenti di capitale"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": "azi_q14",
+    "topic": "Economia Aziendale",
+    "question": "Ogni operazioni di provvista e scambio da' luogo a:",
+    "choices": [
+      "Nessuna delle alternative proposte e' esatta",
+      "Variazione nei soli valori originari \"finanziari\"",
+      "Variazione nei valori sia originari \"finanziari\" sia derivati \"economici\"",
+      "Variazione nei soli valori derivati \"economici\""
+    ],
+    "answerIndex": 2
+  },
+  {
+  "id": "azi_q15",
+  "topic": "Economia Aziendale",
+  "question": "Determinano uscite che misurano l'entita' dei costi:",
   "choices": [
-    "I profitti attraggono nuove imprese.",
-    "I profitti scoraggiano nuovi entranti.",
-    "Le perdite stimolano le imprese ad uscire dal mercato.",
-    "I profitti stimolano le imprese ad uscire dal mercato."
+    "Nessuna delle alternative proposte e' esatta",
+    "Le \"operazioni di finanziamento\"",
+    "Le \"operazioni di provvista\"",
+    "Le \"operazioni di scambio\""
   ],
-  "answerIndex": 0
- },
-  {
-    "id": "micro_q17",
-    "topic": "Microeconomia",
-    "question": "In una società per azioni il soggetto giuridico e' rappresentato:",
-    "choices": [
-      "Dai soci.",
-      "Dal consiglio di amministrazione.",
-      "Dalla società stessa.",
-      "Dai soci di maggioranza."
-    ],
-    "answerIndex": 0
-  },
-  {
-    "id": "micro_q18",
-    "topic": "Microeconomia",
-    "question": "La società A possiede il 45% delle azioni della società B, pertanto:",
-    "choices": [
-      "Si puo' affermare che A esercita il controllo di diritto di B.",
-      "nessuna delle affermazioni e' esatta.",
-      "Si puo' affermare che A non esercita il controllo di diritto di B.",
-      "Si puo' affermare che e' una società di persone."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q19",
-    "topic": "Microeconomia",
-    "question": "Nel sistema competitivo della concorrenza allargata, le barriere all’entrata diventano piu' alte:",
-    "choices": [
-      "nessuna delle affermazioni e' esatta.",
-      "Quando sono poco numerosi i clienti.",
-      "Quando per entrare nel settore c’e' bisogno di competenze altamente specialistiche.",
-      "Quando per entrare nel settore non c’e' bisogno di competenze altamente specialistiche."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q20",
-    "topic": "Microeconomia",
-    "question": "L’aggregato delle imprese, assimilabili nei processi di produzione di beni o servizi, che si rivolgono agli stessi mercati di acquisto dei fattori produttivi e agli stessi mercati di sbocco forma:",
-    "choices": [
-      "Una Holding.",
-      "Un settore.",
-      "Un gruppo aziendale finanziario.",
-      "Nessuna delle precedenti alternative."
-    ],
-    "answerIndex": 1
-  },
-  {
-    "id": "micro_q21",
-    "topic": "Microeconomia",
-    "question": "Tra i seguenti, qual e' uno dei vantaggi prospettati dal modello di impresa detto “padronale” (anche detto a proprietà chiusa) rispetto agli altri modelli di governance conosciuti?",
-    "choices": [
-      "La compagine azionaria poco stabile.",
-      "Orientamento delle decisioni tipicamente al lungo periodo.",
-      "Basso livello dell’indebitamento.",
-      "La compagine azionaria pluralista."
-    ],
-    "answerIndex": 1
-  },
-  {
-    "id": "micro_q22",
-    "topic": "Microeconomia",
-    "question": "L’impresa a proprietà diffusa public company si distingue per:",
-    "choices": [
-      "La sua presenza esclusiva in Italia.",
-      "La costante presenza di enti pubblici e banche dalla compagine azionaria.",
-      "Un’alta stabilità della compagine azionaria.",
-      "Una bassa stabilità della compagine azionaria."
-    ],
-    "answerIndex": 3
-  },
-  {
-    "id": "micro_q23",
-    "topic": "Microeconomia",
-    "question": "A quale modello di governance ci si riferisce quando si parla di una proprietà concentrata e stabile nelle mani di uno o pochi individui o nel gruppo familiare:",
-    "choices": [
-      "Quello della società di persone.",
-      "Quello della public company.",
-      "Quello della proprietà chiusa.",
-      "Quello della proprietà ristretta."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q24",
-    "topic": "Microeconomia",
-    "question": "Gli organi che assolvono funzioni di supporto, assistenza e consulenza sia nei confronti dell’organo volitivo, sia nei confronti degli organi di direzione, pur se non assumono decisioni vincolanti per altri, ma solo pareri, vengono chiamati:",
-    "choices": [
-      "Organi di staff.",
-      "Organi volitivi.",
-      "Organi di line.",
-      "Organi esecutivi."
-    ],
-    "answerIndex": 0
-  },
-  {
-    "id": "micro_q25",
-    "topic": "Microeconomia",
-    "question": "L’insufficiente motivazione dei dipendenti e' il principale svantaggio della:",
-    "choices": [
-      "Struttura organizzativa semplice.",
-      "Struttura organizzativa plurifunzionale.",
-      "Struttura organizzativa multidivisionale.",
-      "Struttura organizzativa a matrice."
-    ],
-    "answerIndex": 0
-  },
-  {
-    "id": "micro_q26",
-    "topic": "Microeconomia",
-    "question": "Qual e' il maggior svantaggio della struttura multidivisionale rispetto alla plurifunzionale?",
-    "choices": [
-      "Lo scarso sovraccarico decisionale della direzione generale.",
-      "La scarsa efficienza.",
-      "Nessuna delle suddette alternative e' corretta.",
-      "La scarsa efficacia."
-    ],
-    "answerIndex": 1
-  },
-  {
-    "id": "micro_q27",
-    "topic": "Microeconomia",
-    "question": "In quale struttura organizzativa si realizza il minore decentramento decisionale:",
-    "choices": [
-      "Struttura plurifunzionale.",
-      "Struttura della società per azioni.",
-      "Struttura a matrice.",
-      "Struttura multi divisionale."
-    ],
-    "answerIndex": 0
-  },
-  {
-    "id": "micro_q28",
-    "topic": "Microeconomia",
-    "question": "La divisione orizzontale del lavoro nella struttura organizzativa a matrice avviene:",
-    "choices": [
-      "Nessuna delle affermazioni e' esatta.",
-      "Sulla base dei criteri di divisione per input (per tecnica/funzione) e per output (per prodotto/mercato/clientela).",
-      "Sulla base del solo criterio di divisione per input (per tecnica/funzione).",
-      "Sulla base del solo criterio di divisione per output (per prodotto/mercato/clientela."
-    ],
-    "answerIndex": 1
-  },
-  {
-    "id": "micro_q29",
-    "topic": "Microeconomia",
-    "question": "La PPF rappresenta:",
-    "choices": [
-      "l'insieme dei punti ottenibili nella produzione.",
-      "l'insieme dei punti di efficienza nella produzione.",
-      "l'insieme dei punti di efficienza nel consumo.",
-      "l'insieme dei punti di efficienza nello scambio."
-    ],
-    "answerIndex": 1
-  },
-  {
-    "id": "micro_q30",
-    "topic": "Microeconomia",
-    "question": "Secondo il paradigma SCR, le politiche dei prezzi rientrano nella:",
-    "choices": [
-      "Struttura del mercato.",
-      "Nessuna delle risposte.",
-      "Performance.",
-      "Condotta."
-    ],
-    "answerIndex": 3
-  },
-  {
-    "id": "micro_q31",
-    "topic": "Microeconomia",
-    "question": "Nel paradigma SCR rientra all'interno della struttura del mercato:",
-    "choices": [
-      "Gli investimenti in impianti.",
-      "Efficienza economica.",
-      "L'integrazione verticale.",
-      "La politica dei prezzi."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q32",
-    "topic": "Microeconomia",
-    "question": "In un mercato di monopolio:",
-    "choices": [
-      "Nessuna delle precedenti alternative e' corretta.",
-      "e' presente un unico venditore e molti compratori.",
-      "Sono presenti molti venditori e molti compratori.",
-      "Sono presenti molti venditori e un unico compratore."
-    ],
-    "answerIndex": 1
-  },
-  {
-    "id": "micro_q33",
-    "topic": "Microeconomia",
-    "question": "L'indice HH:",
-    "choices": [
-      "Si basa sulla somma dei quadrati delle quote di mercato di tutte le imprese di un settore.",
-      "Si basa sul rapporto dei quadrati delle quote di mercato di tutte le imprese di un settore.",
-      "Si basa sul prodotto dei quadrati delle quote di mercato di tutte le imprese di un settore.",
-      "Si basa sulla differenza dei quadrati delle quote di mercato di tutte le imprese di un settore."
-    ],
-    "answerIndex": 0
-  },
-  {
-    "id": "micro_q34",
-    "topic": "Microeconomia",
-    "question": "Il coefficiente di entropia:",
-    "choices": [
-      "e' una ponderazione sulla base del rapporto tra quote di mercato e quantità prodotte dall'impresa.",
-      "e' una ponderazione sulla base delle quote di mercato dell'impresa.",
-      "e' la ponderazione dei quadrati delle somme delle quote di mercato di un'impresa.",
-      "e' una ponderazione sulla base delle quantita' prodotte dalle imprese."
-    ],
-    "answerIndex": 1
-  },
-  {
-    "id": "micro_q35",
-    "topic": "Microeconomia",
-    "question": "La curva di Lorenz:",
-    "choices": [
-      "E' una curva che mette in relazione le imprese di un'industria che hanno tutte le stesse dimensioni.",
-      "Nessuna delle risposte.",
-      "Mostra la variazione dimensionale della dimensione cumulata delle \"n\" maggiori imprese di un'industria.",
-      "E' una curva inclinata negativamente, che mette in relazione le \"n\" maggiori imprese di un'industria."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q36",
-    "topic": "Microeconomia",
-    "question": "Cosa sono i cluster?",
-    "choices": [
-      "Sono gruppi di imprese legate da strette relazioni e localizzate in un'area geografica definita.",
-      "Un insieme di elementi simili tra loro che crescono in maniera disgiunta.",
-      "Un sistema produttivo caratterizzato dalla presenza di molte imprese specializzate nella realizzazione di un bene omogeneo.",
-      "Una forma di sviluppo locale con un'elevata specializzazione settoriale."
-    ],
-    "answerIndex": 0
-  },
-  {
-    "id": "micro_q37",
-    "topic": "Microeconomia",
-    "question": "Quando si parla di prezzo limite?",
-    "choices": [
-      "Con riferimento alla pratica di fissare un prezzo che incoraggi l'ingresso di nuove imprese nel settore.",
-      "Con riferimento alla pratica di fissare un prezzo che scoraggi l'ingresso di nuove imprese nel settore.",
-      "Con riferimento alla pratica di fissare un prezzo che, a seconda dei casi, puo' incoraggiare o scoraggiare l'ingresso di nuove imprese nel settore.",
-      "Nessuna delle risposte."
-    ],
-    "answerIndex": 1
-  },
-  {
-    "id": "micro_q38",
-    "topic": "Microeconomia",
-    "question": "La tecnologia open source e' resa disponibile:",
-    "choices": [
-      "Nessuna delle precedenti alternative e' corretta.",
-      "Solo alle imprese di grandi dimensioni.",
-      "A chiunque voglia utilizzarla.",
-      "Sottoscrivendo un abbonamento."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q39",
-    "topic": "Microeconomia",
-    "question": "Secondo la visione di Simon l'impresa e':",
-    "choices": [
-      "Uno mezzo per la realizzazione degli obiettivi, governata da soggetti che esprimono interessi uguali e non conflittuali.",
-      "Uno strumento per la realizzazione degli obiettivi libera da soggetti che governano.",
-      "Uno strumento per la realizzazione degli obiettivi, governata da soggetti che esprimono interessi uguali e non conflittuali.",
-      "Uno strumento per la realizzazione degli obiettivi, governata da soggetti che esprimono interessi diversi, anche conflittuali."
-    ],
-    "answerIndex": 3
-  },
-  {
-    "id": "micro_q40",
-    "topic": "Microeconomia",
-    "question": "Sconti agli studenti e sconti agli anziani rappresentano:",
-    "choices": [
-      "Nessuna delle precedenti risposte.",
-      "Discriminazione di primo grado.",
-      "Discriminazione di terzo grado.",
-      "Discriminazione di secondo grado."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q41",
-    "topic": "Microeconomia",
-    "question": "Quando un mercato si dice contendibile?",
-    "choices": [
-      "Quando e' possibile accedere al mercato liberamente, senza particolari barriere.",
-      "Quando non e' possibile prevenire le reazioni delle altre imprese.",
-      "Quando la presenza di barriere non lo rende accessibile a tutte le imprese.",
-      "Quando non esiste una reale minaccia di nuovi entranti."
-    ],
-    "answerIndex": 0
-  },
-  {
-    "id": "micro_q42",
-    "topic": "Microeconomia",
-    "question": "Un'impresa che attua una strategia di prezzo predatorio:",
-    "choices": [
-      "e' disposta a ridurre il fatturato.",
-      "e' disposta a sacrificare i profitti nel lungo periodo.",
-      "e' disposta a sacrificare i profitti nel breve periodo.",
-      "Nessuna delle precedenti risposte."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q43",
-    "topic": "Microeconomia",
-    "question": "La teoria dell'agenzia:",
-    "choices": [
-      "Analizza le relazioni tra due agenti.",
-      "Nessuna delle precedenti alternative e' corretta.",
-      "Analizza le relazioni tra due principali.",
-      "Analizza le relazioni tra principale e agente."
-    ],
-    "answerIndex": 3
-  },
-  {
-    "id": "micro_q44",
-    "topic": "Microeconomia",
-    "question": "Nell'oligopolio esistono barriere all'ingresso e/o all'uscita?",
-    "choices": [
-      "Si, ma non sono insuperabili.",
-      "Si, ma non sono superabili.",
-      "Nessuna delle risposte.",
-      "Non esistono."
-    ],
-    "answerIndex": 0
-  },
-  {
-    "id": "micro_q45",
-    "topic": "Microeconomia",
-    "question": "Per ridurre il rischio d'imprese:",
-    "choices": [
-      "Nessuna delle risposte.",
-      "Entrambe le risposte.",
-      "Si collude.",
-      "Si coopera."
-    ],
-    "answerIndex": 3
-  },
-  {
-    "id": "micro_q46",
-    "topic": "Microeconomia",
-    "question": "Per misurare il grado di concentrazione di mercato e' spesso misurato il test:",
-    "choices": [
-      "Nessuna delle precedenti risposte.",
-      "INDIPENDENZA.",
-      "SUI SISTEMI ECONOMICI.",
-      "SSNIP."
-    ],
-    "answerIndex": 3
-  },
-  {
-    "id": "micro_q47",
-    "topic": "Microeconomia",
-    "question": "Il termine distretto industriale e' stato introdotto da:",
-    "choices": [
-      "Vickers.",
-      "Bain.",
-      "Blaug.",
-      "Marshall."
-    ],
-    "answerIndex": 3
-  },
-  {
-    "id": "micro_q48",
-    "topic": "Microeconomia",
-    "question": "L'entrata imitativa e l'entrata innovativa sono:",
-    "choices": [
-      "Due modelli collusivi.",
-      "Due modelli statici di entrata nel mercato.",
-      "Due modelli dinamici di entrata nel mercato.",
-      "Due modelli che mirano a portare equilibrio sul mercato."
-    ],
-    "answerIndex": 1
-  },
-  {
-    "id": "micro_q49",
-    "topic": "Microeconomia",
-    "question": "Cosa puo' compromettere la stabilità di un cartello:",
-    "choices": [
-      "il mark up.",
-      "i prezzi predatori.",
-      "nessuna delle risposte.",
-      "i free riding."
-    ],
-    "answerIndex": 3
-  },
-  {
-    "id": "micro_q50",
-    "topic": "Microeconomia",
-    "question": "Nel modello di Edgeworth:",
-    "choices": [
-      "si introduce un tetto massimo di prezzo.",
-      "possono essere introdotti sia vincoli sul prezzo che sulla capacità produttiva.",
-      "nessuna delle precedenti risposte.",
-      "si introduce un vincolo di capacità produttiva."
-    ],
-    "answerIndex": 3
-  },
-  {
-    "id": "micro_q51",
-    "topic": "Microeconomia",
-    "question": "La collusione:",
-    "choices": [
-      "E' un modello caratterizzato dalla reciproca interdipendenza.",
-      "E' un modello di concorrenza perfetta.",
-      "E' un modello che viene utilizzato per il superamento di incertezze e instabilità.",
-      "Nessuna delle risposte."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q52",
-    "topic": "Microeconomia",
-    "question": "Per misurare il grado di concentrazione di mercato e' spesso misurato il test:",
-    "choices": [
-      "nessuna delle precedenti risposte.",
-      "INDIPENDENZA.",
-      "SUI SISTEMI ECONOMICI.",
-      "SSNIP."
-    ],
-    "answerIndex": 3
-  },
-  {
-    "id": "micro_q53",
-    "topic": "Microeconomia",
-    "question": "Il termine distretto industriale e' stato introdotto da:",
-    "choices": [
-      "Vickers.",
-      "Bain.",
-      "Blaug.",
-      "Marshall."
-    ],
-    "answerIndex": 3
-  },
-  {
-    "id": "micro_q54",
-    "topic": "Microeconomia",
-    "question": "Gli elementi che caratterizzano un distretto sono:",
-    "choices": [
-      "presenza di economie esterne locali.",
-      "tutte vere.",
-      "rendimenti di scala crescenti e costi di transazione.",
-      "riduzione dei costi di apprendimento e sviluppo delle tecnologie."
-    ],
-    "answerIndex": 0
-  },
-  {
-    "id": "micro_q55",
-    "topic": "Microeconomia",
-    "question": "Quando un settore e' composto da imprese di uguali dimensioni?",
-    "choices": [
-      "Quando il valore dell'indice di Gini e' pari a 0.",
-      "Quando le imprese operano in un mercato di concorrenza perfetta.",
-      "Quando il valore dell'elasticità della domanda e' nullo.",
-      "Quando il valore dell'indice di Gini e' pari a 1."
-    ],
-    "answerIndex": 3
-  },
-  {
-    "id": "micro_q56",
-    "topic": "Microeconomia",
-    "question": "le economie di scala possono scoraggiare l'ingresso:",
-    "choices": [
-      "soltanto se imprese di piccole dimensioni possono sostenere costi dovuti alla presenza nel settore.",
-      "soltanto se imprese con dimensioni elevate possono sostenere costi dovuti alla presenza nel settore.",
-      "sempre.",
-      "soltanto se imprese con dimensioni elevate non possono sostenere costi dovuti alla presenza nel settore."
-    ],
-    "answerIndex": 1
-  },
-  {
-    "id": "micro_q57",
-    "topic": "Microeconomia",
-    "question": "Un'impresa che attua una strategia del prezzo predatorio:",
-    "choices": [
-      "E' disposta a sacrificare i profitti nel lungo periodo.",
-      "nessuna delle risposte.",
-      "E' disposta a sacrificare i profitti nel breve periodo.",
-      "E' disposta a ridurre il fatturato."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q58",
-    "topic": "Microeconomia",
-    "question": "Con il metodo del cost plus pricing:",
-    "choices": [
-      "le imprese fissano il prezzo una volta definito il costo fisso, aggiungono a questo una percentuale di ricarico in linea con il profitto che vogliono realizzare, e determinano il prezzo da praticare.",
-      "le imprese fissano il prezzo una volta definito il costo totale, aggiungono a questo una percentuale di ricarico in linea con il profitto che vogliono realizzare, e determinano il prezzo da praticare.",
-      "le imprese fissano il prezzo una volta definito il costo medio variabile, aggiungono a questo una percentuale di ricarico in linea con il profitto che vogliono realizzare, e determinano il prezzo da praticare.",
-      "le imprese fissano il prezzo una volta definito il costo medio totale, aggiungono a questo una percentuale di ricarico in linea con il profitto che vogliono realizzare, e determinano il prezzo da praticare."
-    ],
-    "answerIndex": 3
-  },
-  {
-    "id": "micro_q59",
-    "topic": "Microeconomia",
-    "question": "Quando la discriminazione di prezzo e' definita non lineare:",
-    "choices": [
-      "con la discriminazione di secondo grado.",
-      "con la discriminazione di terzo grado.",
-      "con il mark-up.",
-      "con la discriminazione di primo grado."
-    ],
-    "answerIndex": 0
-  },
-  {
-    "id": "micro_q60",
-    "topic": "Microeconomia",
-    "question": "Il peak load pricing:",
-    "choices": [
-      "E' una forma di discriminazione intertemporale, che permette di differenziare i costi di produzione in funzione delle quantità domandate.",
-      "E' una forma di discriminazione intertemporale, che permette di differenziare i prezzi sulla base delle disponibilità a pagare dei soggetti, espresse attraverso le preferenze in ordine al momento di fruizione del servizio.",
-      "E' una forma di discriminazione intertemporale, che permette di differenziare i prezzi sulla base delle quantità acquistate da ciascun cliente.",
-      "nessuna delle precedenti alternative e' corretta."
-    ],
-    "answerIndex": 3
-  },
-  {
-    "id": "micro_q61",
-    "topic": "Microeconomia",
-    "question": "Arrow sostiene che:",
-    "choices": [
-      "Ricerca e innovazione spesso non coincidono.",
-      "Non esiste innovazione senza ricerca.",
-      "Senza nessuna pressione da parte della concorrenza e' possibile incentivare la ricerca e, quindi, l'innovazione.",
-      "Solo un'elevata pressione concorrenziale puo' incentivare la ricerca e, quindi, l'innovazione."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q62",
-    "topic": "Microeconomia",
-    "question": "In un mercato di concorrenza perfetta:",
-    "choices": [
-      "La numerosità dei compratori dipende dal numero di prodotti perfetti sostituti disponibili sul mercato.",
-      "Sono molto numerosi sia i compratori che i venditori.",
-      "Sono numerosi solo i compratori.",
-      "Sono molto numerosi solo i venditori."
-    ],
-    "answerIndex": 1
-  },
-  {
-    "id": "micro_q63",
-    "topic": "Microeconomia",
-    "question": "Con il metodo di analisi parziale si ipotizza che:",
-    "choices": [
-      "nel corso delle analisi, le condizioni di mercato varino continuamente.",
-      "nel corso delle analisi, le condizioni di mercato vanno considerate parzialmente.",
-      "nel corso delle analisi, le condizioni di mercato restino immutate.",
-      "nel corso delle analisi, le condizioni di mercato restino variabili."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q64",
-    "topic": "Microeconomia",
-    "question": "Con l'espressione domanda di un bene si intende:",
-    "choices": [
-      "la quantità di un bene che i compratori desiderano acquistare in corrispondenza di un certo prezzo, in un dato istante.",
-      "la quantità di un bene che i venditori desiderano acquistare in corrispondenza di un certo prezzo, in un dato istante.",
-      "la quantità di un bene che i compratori desiderano acquistare in corrispondenza di un un prezzo fisso, in un dato istante.",
-      "la quantità di un bene sostitutivo che i compratori non desiderano acquistare in corrispondenza di un certo prezzo, in un dato istante."
-    ],
-    "answerIndex": 0
-  },
-  {
-    "id": "micro_q65",
-    "topic": "Microeconomia",
-    "question": "La funzione di domanda e' una funzione:",
-    "choices": [
-      "costante al prezzo.",
-      "decrescente al prezzo.",
-      "crescente continua al prezzo.",
-      "crescente discontinua al prezzo."
-    ],
-    "answerIndex": 1
-  },
-  {
-    "id": "micro_q66",
-    "topic": "Microeconomia",
-    "question": "La funzione di offerta (parziale) e' una funzione:",
-    "choices": [
-      "costante al prezzo.",
-      "crescente discontinua al prezzo.",
-      "crescente al prezzo.",
-      "decrescente al prezzo."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q67",
-    "topic": "Microeconomia",
-    "question": "Quali sono i fattori da cui dipende l'offerta di un bene?",
-    "choices": [
-      "tecnologia, eventi casuali.",
-      "fattori di capitalizzazione.",
-      "tecnologia, prezzodi altri beni, eventi casuali.",
-      "tecnologia, costi di acquisizione dei fattori produttivi, prezzo di altri beni, eventi casuali."
-    ],
-    "answerIndex": 3
-  },
-  {
-    "id": "micro_q68",
-    "topic": "Microeconomia",
-    "question": "Con l'analisi di statica comparata e' possibile:",
-    "choices": [
-      "osservare solo le curve di domanda.",
-      "osservare solo le curve di offerta.",
-      "osservare l'intera configurazione delle curve di domanda e di offerta.",
-      "osservare il comportamento del consumatore."
-    ],
-    "answerIndex": 2
-  },
-  {
-    "id": "micro_q69",
-    "topic": "Microeconomia",
-    "question": "Il postulato di individualismo afferma che:",
-    "choices": [
-      "le preferenze del soggetto sono individualistiche, esse non risentono in alcun modo del contesto sociale nel quale questi si trova ad operare.",
-      "le preferenze del soggetto non sono individualistiche, esse non risentono in alcun modo del contesto sociale nel quale questi si trova ad operare.",
-      "le preferenze del soggetto sono individualistiche, esse non risentono in alcun modo del contesto sociale nel quale questi si trova ad operare.",
-      "le preferenze del soggetto sono individualistiche, esse risentono in alcun modo del contesto sociale nel quale questi si trova ad operare."
-    ],
-    "answerIndex": 0
-  },
-  {
-  "id": "micro_q70",
-  "topic": "Microeconomia",
-  "question": "Il saggio marginale di sostituzione del bene 2 con il bene 1 e' dato da:",
+  "answerIndex": 2
+},
+{
+  "id": "azi_q16",
+  "topic": "Economia Aziendale",
+  "question": "Determinano entrate che misurano l'entita' di ricavi:",
   "choices": [
-    "Δx2/Δx1",
-    "x1/x2",
-    "Δx1/Δx2",
-    "Δx2/x1"
+    "Le \"operazioni di scambio\"",
+    "Le \"operazioni di finanziamento\"",
+    "Nessuna delle alternative proposte e' esatta",
+    "Le \"operazioni di provvista\""
   ],
   "answerIndex": 0
 },
 {
-  "id": "micro_q71",
-  "topic": "Microeconomia",
-  "question": "L'elasticità di sostituzione e' data da:",
+  "id": "azi_q17",
+  "topic": "Economia Aziendale",
+  "question": "L'insieme dei mezzi a disposizione, in un dato momento, di diritto e di fatto, del soggetto aziendale per il perseguimento delle finalita' aziendali, prende il nome di:",
   "choices": [
-    "σ=(Δ(x2/x1))/(Δ(dx2/dx1)/(x2/x1))",
-    "σ=((x2/x1))/(Δ(dx2/dx1)/(dx2/dx1))",
-    "σ=(Δ(x2/x1))/(Δ(x2/x1)/(dx2/dx1))",
-    "σ=(Δ(x2/x1))/(Δ(dx2/dx1)/(dx2/dx1))"
+    "Reddito d'impresa",
+    "Capitale d'impresa",
+    "Nessuna delle alternative proposte e' esatta",
+    "Di immobilizzazioni"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q18",
+  "topic": "Economia Aziendale",
+  "question": "Sostituiscono temporaneamente una uscita monetaria e sono espressione del credito mercantile di cui l'azienda gode:",
+  "choices": [
+    "I crediti di funzionamento",
+    "I crediti di finanziamento",
+    "I debiti di funzionamento",
+    "I debiti di finanziamento"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q19",
+  "topic": "Economia Aziendale",
+  "question": "Il reddito ordinario:",
+  "choices": [
+    "Esprime il livello di performance raggiunto dall’impresa producendo quei beni e quei servizi che si e' preposta di realizzare",
+    "Nessuna delle precedenti alternative e' esatta",
+    "In esso si raccolgono fenomeni di tipo occasionale e casuale",
+    "Esprime l’interazione tra i risultati dell’attivita' operativa e gli effetti legati alle scelte di finanziamento che sono state operate per sostenere l’attivita' operativa"
   ],
   "answerIndex": 3
 },
 {
-  "id": "micro_q72",
-  "topic": "Microeconomia",
-  "question": "Il vincolo di bilancio nel problema del consumatore e' espresso dall'equazione:",
+  "id": "azi_q20",
+  "topic": "Economia Aziendale",
+  "question": "I cicli economici della gestione che pur iniziati nell’esercizio, con l’acquisto di fattori produttivi, risultano ancora sospesi al termine dello stesso esercizio (e cioe' al 31/12 non si sono ancora manifestati i ricavi di vendita dei prodotti ottenuti dai fattori produttivi in questione) danno luogo a:",
   "choices": [
-    "p*x= Σpi*xi=C",
-    "p*x= Σpi*xi=R",
-    "p+x= Σpi*xi=R",
-    "p*x= Σpi+xi=C"
+    "Nessuna delle affermazioni e' corretta",
+    "Costi sospesi poiché di competenza di esercizi futuri",
+    "Entrate nell’esercizio",
+    "Costi di competenza dell’esercizio in questione"
   ],
   "answerIndex": 1
 },
 {
-  "id": "micro_q73",
-  "topic": "Microeconomia",
-  "question": "Un aumento di salari, costi di capitale e reddito nel mercato di un bene normale porterà a:",
+  "id": "azi_q21",
+  "topic": "Economia Aziendale",
+  "question": "Si definiscono costi semifissi quei costi:",
   "choices": [
-    "una diminuzione della domanda e un prezzo piu' alto.",
-    "una diminuzione dell’offerta e un aumento della domanda con prezzo piu' alto.",
-    "una diminuzione dell’offerta e aumento della domanda ma prezzo incerto.",
-    "una diminuzione dell’offerta e prezzo piu' alto."
+    "Nessuna tra le alternative proposte e' esatta",
+    "La cui entita' rimane costante solo in un dato intervallo del volume produttivo",
+    "La cui entita' si modifica sempre in relazione al mutamento del volume produttivo.",
+    "La cui entita' rimane sempre insensibile a mutamenti nel volume produttivo."
   ],
   "answerIndex": 1
 },
 {
-  "id": "micro_q74",
-  "topic": "Microeconomia",
-  "question": "Il metodo di produzione che minimizza i costi e' funzione:",
+  "id": "azi_q22",
+  "topic": "Economia Aziendale",
+  "question": "La quantita' di break even point e' 1.500 unita', invece l'azienda produce e vende 1.300 unita'. In una tale circostanza si puo' affermare che:",
   "choices": [
-    "dei costi di produzione dell’impresa.",
-    "della tecnologia e del prezzo di mercato del bene.",
-    "della tecnologia e dei costi di produzione.",
-    "della tecnologia di produzione dell’impresa."
-  ],
-  "answerIndex": 0
-},
-{
-  "id": "micro_q75",
-  "topic": "Microeconomia",
-  "question": "Il costo marginale di produzione e':",
-  "choices": [
-    "la quantità di cui il costo totale aumenta quando la produzione aumenta di tre.",
-    "la variazione dell'utilità marginale.",
-    "la variazione del costo totale divisa per il livello di produzione.",
-    "la variazione del costo variabile totale divisa per la variazione della produzione."
-  ],
-  "answerIndex": 0
-},
-{
-  "id": "micro_q76",
-  "topic": "Microeconomia",
-  "question": "Secondo l'equazione di Slusky:",
-  "choices": [
-    "xj=(xj^-i)- (xr^-i)(xj)",
-    "xj=(xj^-i)+ (xr^i)(xj)",
-    "xj=(xj^-i)- (xr^i)(xj)",
-    "xj=(xj^-i)* (xr^i)(xj)"
-  ],
-  "answerIndex": 2
-},
-{
-  "id": "micro_q77",
-  "topic": "Microeconomia",
-  "question": "Il surplus del consumatore e':",
-  "choices": [
-    "massimo per valori unitari dell’elasticità.",
-    "massimo in presenza di prezzi calmierati.",
-    "minimo in presenza di sostegno alla produzione.",
-    "nessuna delle precedenti."
+    "Nessuna tra le alternative proposte e' esatta",
+    "Certamente sono errati i dati rilevati dalla contabilita'",
+    "L'azienda conseguira' un utile",
+    "L'azienda subira' una perdita"
   ],
   "answerIndex": 3
 },
 {
-  "id": "micro_q78",
-  "topic": "Microeconomia",
-  "question": "Una allocazione e' Pareto-ottimale se:",
+  "id": "azi_q23",
+  "topic": "Economia Aziendale",
+  "question": "Nel criterio di ripartizione dei costi comuni su base unica:",
   "choices": [
-    "non esiste alcuna altra allocazione possibile.",
-    "non e' possibile migliorare la posizione di qualcuno senza peggiorare quella di altri.",
-    "e' possibile migliorare la posizione di almeno un agente.",
-    "tutti stanno bene."
-  ],
-  "answerIndex": 1
-},
-{
-  "id": "micro_q79",
-  "topic": "Microeconomia",
-  "question": "Gli isoquanti di produzione rappresentano:",
-  "choices": [
-    "tutte le combinazioni di input che danno lo stesso output.",
-    "tutte le combinazioni di costi che danno lo stesso output.",
-    "tutte le combinazioni di input che danno output diversi.",
-    "tutte le combinazioni di costi che danno output diversi."
-  ],
-  "answerIndex": 0
-},
-{
-  "id": "micro_q80",
-  "topic": "Microeconomia",
-  "question": "Una isoclina e':",
-  "choices": [
-    "un luogo di punti su isoquanti diversi con SMS crescente.",
-    "un luogo di punti su isoquanti uguali con SMS costante.",
-    "un luogo di punti su isoquanti diversi con SMS costante.",
-    "un luogo di punti con SMS tra outputs costante."
+    "Si fa una misurazione obiettiva (tipo prezzo x quantita') delle utilita' del fattore produttivo che sono incorporate nel prodotto venduto",
+    "Nessuna tra le alternative proposte e' esatta",
+    "I costi comuni dell'impresa vengono considerati complessivamente, senza operare alcuna distinzione che tenga conto della loro \"natura\".",
+    "Si distinguono in vari gruppi i diversi costi comuni e, per ogni gruppo, utilizza una base di ripartizione 'ad hoc'."
   ],
   "answerIndex": 2
 },
 {
-  "id": "micro_q81",
-  "topic": "Microeconomia",
-  "question": "Il costo totale medio (CTM) e' dato da:",
+  "id": "azi_q24",
+  "topic": "Economia Aziendale",
+  "question": "I costi che sono attribuibili ad un «oggetto» (prodotto) mediante:",
   "choices": [
-    "CTM=CF/y",
-    "CTM=CT/y",
-    "CTM=CV/y",
-    "CTM=CT/C"
-  ],
-  "answerIndex": 1
-},
-{
-  "id": "micro_q82",
-  "topic": "Microeconomia",
-  "question": "La funzione ricavo e' definita da:",
-  "choices": [
-    "R(y)=p.y",
-    "R(x)=p.y",
-    "R(y)=c.y",
-    "R(y)=C.y"
+    "Misurazione obiettiva (ad es. Prezzo x quantita') si dicono costi «speciali»",
+    "Nessuna tra le alternative proposte e' esatta",
+    "Stima soggetta ad arbitrio si dicono costi «speciali»",
+    "Un criterio di ripartizione dei costi comuni si dicono costi «speciali»"
   ],
   "answerIndex": 0
 },
 {
-  "id": "micro_q83",
-  "topic": "Microeconomia",
-  "question": "Le diseconomie di scala sono dovute a:",
+  "id": "azi_q25",
+  "topic": "Economia Aziendale",
+  "question": "Parlando di categorie di valori che formano il capitale, si puo' affermare che i valori che compongono l’attivo sono i seguenti:",
   "choices": [
-    "limiti agli outputs e problemi tecnici.",
-    "limiti agli inputs, problemi tecnici e di management.",
-    "solo a considerazioni tecniche.",
-    "limiti posti dal mercato."
-  ],
-  "answerIndex": 1
-},
-{
-  "id": "micro_q84",
-  "topic": "Microeconomia",
-  "question": "Nel regime di concorrenza perfetta l'impresa e' in equilibrio di breve periodo quando:",
-  "choices": [
-    "produce al livello che massimizza il profitto di breve periodo.",
-    "non produce al livello di massimo profitto.",
-    "produce al livello che massimizza il costo.",
-    "produce al livello che massimizza il profitto di lungo periodo."
-  ],
-  "answerIndex": 0
-},
-{
-  "id": "micro_q85",
-  "topic": "Microeconomia",
-  "question": "Nel mercato di monopolio:",
-  "choices": [
-    "la curva di offerta del monopolista e' la curva di mercato.",
-    "la curva di domanda del monopolista coincide con la curva di mercato.",
-    "la curva di domanda coincide con la curva di offerta.",
-    "la curva di domanda coincide con la curva di domanda del bene."
-  ],
-  "answerIndex": 1
-},
-{
-  "id": "micro_q86",
-  "topic": "Microeconomia",
-  "question": "La differenza tra prezzo di monopolio pM e prezzo di concorrenza pc e' detta:",
-  "choices": [
-    "mark-up del consumatore.",
-    "profitto.",
-    "mark-up concorrenziale.",
-    "mark-up del monopolista."
+    "Valori finanziari attivi e valori anticipati di ricavo",
+    "Costi e ricavi d’esercizio oltre ai conferimenti",
+    "Nessuna delle affermazioni e' esatta",
+    "Valori finanziari attivi e valori anticipati di costo"
   ],
   "answerIndex": 3
 },
 {
-  "id": "micro_q87",
-  "topic": "Microeconomia",
-  "question": "Un tipo di regolamentazione del monopolio e' basata su:",
+  "id": "azi_q26",
+  "topic": "Economia Aziendale",
+  "question": "La vendita, da parte dell’impresa, di prodotti:",
   "choices": [
-    "determinazione del profitto ottimo.",
-    "determinazione del costo marginale ottimo.",
-    "determinazione del prezzo ottimo.",
-    "determinazione dell'utilità marginale."
-  ],
-  "answerIndex": 2
-},
-{
-  "id": "micro_q88",
-  "topic": "Microeconomia",
-  "question": "La regolamentazione basata sulla determinazione del prezzo e' data dalla funzione obiettivo:",
-  "choices": [
-    "max W=∫p(y)dy+∫C'dy",
-    "min W=∫p(y)dy-∫C'dy",
-    "max W=∫p(y)dy-∫C'dy",
-    "min W=∫p(y)dy+∫C'dy"
-  ],
-  "answerIndex": 2
-},
-{
-  "id": "micro_q89",
-  "topic": "Microeconomia",
-  "question": "Il modello di Cournot viene utilizzato per sviluppare la teoria:",
-  "choices": [
-    "della concorrenza monopolistica.",
-    "della concorrenza perfetta.",
-    "del monopolio.",
-    "dell'oligopolio."
+    "Determina dei valori finanziari negativi",
+    "Determina dei valori economici di reddito negativi",
+    "Nessuna delle affermazioni è esatta",
+    "Determina dei valori economici di reddito positivi"
   ],
   "answerIndex": 3
 },
 {
-  "id": "micro_q90",
-  "topic": "Microeconomia",
-  "question": "Nel modello di Cournot la curva di reazione e':",
+  "id": "azi_q27",
+  "topic": "Economia Aziendale",
+  "question": "Un R.O.I. (return on investment) pari al 5 % ha il seguente significato:",
   "choices": [
-    "il luogo dei punti di massimo della curva di costo.",
-    "il luogo dei punti di minimo della curva di isoprofitto.",
-    "il luogo dei punti di massimo della curva di domanda.",
-    "il luogo dei punti di massimo della curva di isoprofitto."
+    "per ogni 100 € di denaro investito nell’impresa, che è stato reperito a prestito oppure dai soci, la gestione complessiva aziendale genererà 5 € di reddito netto",
+    "per ogni 100 € di denaro investito nell’impresa, che è stato reperito a prestito oppure dai soci, la gestione caratteristica aziendale genererà 5 € di reddito operativo",
+    "per ogni 100 € di denaro investito nell’impresa dai soci (denaro reperito dai soli soci), la gestione complessiva aziendale genererà 5 € di reddito netto",
+    "per ogni 100 € di denaro investito nell’impresa dai soci (denaro reperito dai soli soci), la gestione caratteristica aziendale genererà 5 € di reddito operativo"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q28",
+  "topic": "Economia Aziendale",
+  "question": "Si calcoli la quantità di break-even point (quantità di pareggio), sapendo che i Costi Fissi ammontano a 150, il prezzo di vendita di una singola unità del prodotto è pari a 7 e che il costo variabile unitario (sostenuto mediamente per produrre una singola unità del prodotto) è pari a:",
+  "choices": [
+    "La quantità di break even point è di 20",
+    "La quantità di break even point è di 50",
+    "La quantità di break even point è di 30",
+    "La quantità di break even point è di 100"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q29",
+  "topic": "Economia Aziendale",
+  "question": "Il costo industriale:",
+  "choices": [
+    "risulta dalla somma di tutti i costi speciali, rispetto al prodotto, di natura industriale, ossia afferenti al processo trasformativo",
+    "si ottiene sommando al costo industriale, tutti i restanti costi, speciali o comuni relativi allo svolgimento delle altre attività funzionali dell'impresa, diverse da quella propriamente produttiva (di trasformazione industriale)",
+    "si ottiene sommando, al costo primo i costi comuni, sempre però relativi all'attività di trasformazione industriale",
+    "si ottiene sommando al costo industriale, tutti i restanti costi, speciali o comuni relativi allo svolgimento delle altre attività funzionali dell'impresa, diverse da quella propriamente produttiva (di trasformazione industriale)"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q30",
+  "topic": "Economia Aziendale",
+  "question": "Il costo primo comprende:",
+  "choices": [
+    "Tutti i costi che hanno rilevanza contabile",
+    "Tutti i costi speciali dell’area industriale",
+    "Tutti i costi dell’area industriale",
+    "Tutti gli oneri figurativi"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q31",
+  "topic": "Economia Aziendale",
+  "question": "Il costo economico-tecnico:",
+  "choices": [
+    "si ottiene aggiungendo al costo complessivo gli «oneri figurativi»",
+    "risulta dalla somma di tutti i costi speciali, rispetto al prodotto, di natura industriale, ossia afferenti al processo trasformativo",
+    "si ottiene sommando, al costo primo i costi comuni, sempre però relativi all'attività di trasformazione industriale",
+    "si ottiene sommando al costo industriale, tutti i restanti costi, speciali o comuni relativi allo svolgimento delle altre attività funzionali dell'impresa, diverse da quella propriamente produttiva (di trasformazione industriale)"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q32",
+  "topic": "Economia Aziendale",
+  "question": "I costi parziali:",
+  "choices": [
+    "corrispondono a configurazioni ottenute considerando tutte le voci di costo",
+    "nessuna tra le alternative proposte è esatta",
+    "esprimono configurazioni di costo ottenute considerando solo alcune delle voci di costo relative al prodotto",
+    "corrispondono alla configurazione del costo sostenuto per produrre e vendere la quantità di break even point"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q33",
+  "topic": "Economia Aziendale",
+  "question": "Il costo complessivo (o pieno) comprende:",
+  "choices": [
+    "Gli interessi passivi e non i costi commerciali né gli oneri figurativi",
+    "Nessuna delle affermazioni è esatta",
+    "Gli interessi passivi, i costi commerciali e non gli oneri figurativi",
+    "Gli interessi passivi, i costi commerciali, gli oneri figurativi"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q34",
+  "topic": "Economia Aziendale",
+  "question": "I costi pieni:",
+  "choices": [
+    "Corrispondono a configurazioni ottenute considerando tutte le voci di costo",
+    "Nessuna tra le alternative proposte è esatta",
+    "Corrispondono alla configurazione del costo sostenuto per produrre e vendere la quantità di break even point",
+    "Esprimono configurazioni di costo ottenute considerando solo alcune delle voci di costo relative al prodotto"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q35",
+  "topic": "Economia Aziendale",
+  "question": "Il costo industriale comprende:",
+  "choices": [
+    "I costi commerciali",
+    "I costi amministrativi",
+    "I costi tributari",
+    "Il costo primo"
   ],
   "answerIndex": 3
 },
 {
-  "id": "micro_q91",
-  "topic": "Microeconomia",
-  "question": "L'equilibrio di Cournot e' rappresentato geometricamente:",
+  "id": "azi_q36",
+  "topic": "Economia Aziendale",
+  "question": "Il costo complessivo:",
   "choices": [
-    "dall'intersezione di 2 curve di reazione.",
-    "dall'intersezione di 2 curve di isoprofitto.",
-    "dall'intersezione di 2 curve di costo marginale.",
-    "dall'intersezione di 2 curve di costo medio."
-  ],
-  "answerIndex": 0
-},
-{
-  "id": "micro_q92",
-  "topic": "Microeconomia",
-  "question": "Se il prezzo dei telefonini \"XXX\" e' tale per cui la loro domanda uguaglia la loro offerta, allora:",
-  "choices": [
-    "la spesa totale dei consumatori e' piu' alta del ricavo totale dei produttori.",
-    "la spesa totale dei consumatori e' uguale al ricavo totale dei produttori e uguale al prodotto tra prezzo e quantità d’equilibrio.",
-    "la spesa totale dei consumatori e' uguale al ricavo totale dei produttori ma maggiore del prodotto tra prezzo e quantità d’equilibrio.",
-    "la spesa totale dei consumatori e' piu' bassa del ricavo totale dei produttori."
+    "Risulta dalla somma di tutti i costi speciali, rispetto al prodotto, di natura industriale, ossia afferenti al processo trasformativo",
+    "Si ottiene sommando al costo industriale, tutti i restanti costi, speciali o comuni relativi allo svolgimento delle altre attività funzionali dell'impresa, diverse da quella propriamente produttiva (di trasformazione industriale)",
+    "Si ottiene sommando, al costo primo i costi comuni, sempre però relativi all'attività di trasformazione industriale",
+    "Risulta dalla somma di tutti i costi speciali, rispetto al prodotto, di natura industriale, ossia afferenti al processo trasformativo"
   ],
   "answerIndex": 1
 },
 {
-  "id": "micro_q93",
-  "topic": "Microeconomia",
-  "question": "Una curva d’indifferenza rappresenta:",
+  "id": "azi_q37",
+  "topic": "Economia Aziendale",
+  "question": "Il margine lordo di contribuzione può essere inteso come:",
   "choices": [
-    "tutte le combinazioni di beni acquistabili con un dato reddito.",
-    "tutte le combinazioni di beni che garantiscono l’equilibrio di mercato.",
-    "tutte le combinazioni di beni che garantiscono lo stesso grado di soddisfazione.",
-    "tutte le combinazioni di beni che garantiscono l’equilibrio sul mercato dei beni."
+    "l'importo che residua dopo che i ricavi delle vendite hanno coperto i costi fissi e che si rende disponibile per la copertura dei costi variabili",
+    "nessuna tra le alternative proposte è esatta",
+    "l'importo che residua dopo che i ricavi delle vendite hanno coperto i costi variabili e che si rende disponibile per la copertura dei costi fissi",
+    "l'importo che residua dopo che i ricavi delle vendite hanno coperto i costi comuni e che si rende disponibile per la copertura dei costi speciali"
   ],
   "answerIndex": 2
 },
 {
-  "id": "micro_q94",
-  "topic": "Microeconomia",
-  "question": "Quando in un’economia di libero mercato si determina un disequilibrio:",
+  "id": "azi_q38",
+  "topic": "Economia Aziendale",
+  "question": "Il margine lordo di contribuzione unitario si può calcolare come:",
   "choices": [
-    "domanda e offerta si eguagliano.",
-    "lo Stato interviene per riallocare le risorse.",
-    "una diminuzione del prezzo segnala scarsità.",
-    "gli individui attendono senza reagire."
-  ],
-  "answerIndex": 1
-},
-{
-  "id": "micro_q95",
-  "topic": "Microeconomia",
-  "question": "Se l’impresa aumenta la quantità di un fattore produttivo e il prodotto marginale aumenta, la funzione di produzione presenta:",
-  "choices": [
-    "rendimenti marginali decrescenti.",
-    "rendimenti marginali costanti.",
-    "elasticità negativa.",
-    "rendimenti marginali crescenti."
+    "nessuna tra le alternative proposte è esatta",
+    "margine lordo di contribuzione totale meno unità di prodotto vendute",
+    "margine lordo di contribuzione totale moltiplicato unità di prodotto vendute",
+    "margine lordo di contribuzione totale diviso unità di prodotto vendute"
   ],
   "answerIndex": 3
 },
 {
-  "id": "micro_q96",
-  "topic": "Microeconomia",
-  "question": "L'impresa con il rent seeking:",
+  "id": "azi_q39",
+  "topic": "Economia Aziendale",
+  "question": "L’affermazione seguente: La produzione del prodotto “A” fornisce un Margine Lordo di Contribuzione pari a 1000”, significa che:",
   "choices": [
-    "ricerca economie di scala.",
-    "ricerca la posizione dominante.",
-    "ricerca di minimizzare il profitto.",
-    "ricerca la posizione di equilibrio."
-  ],
-  "answerIndex": 1
-},
-{
-  "id": "micro_q97",
-  "topic": "Microeconomia",
-  "question": "Secondo la teoria dei giochi cosa si intende per gioco non cooperativo:",
-  "choices": [
-    "non e' possibile per i giocatori prendere impegni vincolanti.",
-    "gli impegni tra giocatori sono vincolanti.",
-    "i giocatori sono monopolisti.",
-    "gli impegni sono di profitto."
+    "1000 è l’importo che residua dopo che i ricavi delle vendite hanno coperto i Costi variabili sostenuti per realizzare i prodotti venduti; tale importo di 1000 si rende disponibile per la copertura dei costi fissi",
+    "1000 è l’importo che residua dopo che i ricavi delle vendite hanno coperto i Costi Fissi aziendali; tale importo di 1000 si rende disponibile per la copertura dei costi variabili",
+    "Nessuna delle affermazioni è esatta",
+    "1000 è anche il reddito operativo"
   ],
   "answerIndex": 0
 },
 {
-  "id": "micro_q98",
-  "topic": "Microeconomia",
-  "question": "Secondo la teoria dei giochi un gioco e' a somma costante:",
+  "id": "azi_q40",
+  "topic": "Economia Aziendale",
+  "question": "L'equilibrio economico oggettivo è sintetizzabile nella seguente espressione algebrica:",
   "choices": [
-    "la somma dei guadagni e' costante per tutti gli esiti.",
-    "la somma dei guadagni e' rigida.",
-    "la somma dei guadagni e' variabile.",
-    "la somma dei guadagni e' pari a zero."
+    "Ricavi = Costi + Oneri figurativi",
+    "Ricavi <Costi",
+    "nessuna delle alternative proposte è esatta",
+    "Ricavi = Costi"
   ],
   "answerIndex": 0
 },
 {
-  "id": "micro_q99",
-  "topic": "Microeconomia",
-  "question": "Secondo la teoria dei giochi un gioco e' a somma variabile:",
+  "id": "azi_q41",
+  "topic": "Economia Aziendale",
+  "question": "Il principio del duplice aspetto sancisce:",
   "choices": [
-    "la somma dei guadagni e' costante.",
-    "la somma dei guadagni e' rigida.",
-    "la somma dei guadagni e' variabile.",
-    "la somma dei guadagni e' pari a zero."
+    "La somma delle attivita' deve uguagliare la somma delle passivita'",
+    "Nessuna delle altre risposte",
+    "La somma di tutti gli investimenti di un'azienda deve essere finanziata dalle due tipologie di fonti: passivita' e patrimonio netto",
+    "La somma di tutti gli investimenti di un'azienda deve essere finanziata dal patrimonio netto"
   ],
   "answerIndex": 2
 },
 {
-  "id": "micro_q100",
-  "topic": "Microeconomia",
-  "question": "Secondo la teoria dei giochi cosa si intende per gioco in forma estensiva:",
+  "id": "azi_q42",
+  "topic": "Economia Aziendale",
+  "question": "Dal principio della misurazione monetaria si evince uno dei limiti della contabilita'. Quale?",
   "choices": [
-    "viene specificato l'albero del gioco.",
-    "ci sono piu' giocatori.",
-    "i giocatori competono.",
-    "i giocatori non competono."
+    "Gli aspetti 'intangibili' non possono essere rappresentati dalla contabilita'",
+    "La misurazione monetaria non puo' essere considerata l'unica misurazione utilizzabile",
+    "Nessuna delle altre risposte",
+    "La misurazione monetaria non considera le diverse valute"
   ],
   "answerIndex": 0
 },
 {
-  "id": "micro_q101",
-  "topic": "Microeconomia",
-  "question": "Se due beni sono perfettamente complementari:",
+  "id": "azi_q43",
+  "topic": "Economia Aziendale",
+  "question": "Per quale principio l'uguaglianza tra attivita' e passivita' + patrimonio netto e' sempre garantita?",
   "choices": [
-    "l’effetto di sostituzione e' nullo.",
-    "la soluzione ottimale e' sempre ad angolo.",
-    "l’effetto di sostituzione e' maggiore dell’effetto reddito.",
-    "l’effetto reddito e' nullo."
-  ],
-  "answerIndex": 0
-},
-{
-  "id": "micro_q102",
-  "topic": "Microeconomia",
-  "question": "Calcolare la duration di una operazione finanziaria con flussi futuri:",
-  "choices": [
-    "durata pari a 5,31 anni.",
-    "durata pari a 7,2 anni.",
-    "durata pari a 2 anni.",
-    "durata pari a 8,5 anni."
-  ],
-  "answerIndex": 0
-},
-{
-  "id": "micro_q103",
-  "topic": "Microeconomia",
-  "question": "In un mercato di monopolio con costo marginale nullo:",
-  "choices": [
-    "il surplus del consumatore e' nullo.",
-    "un prezzo massimo riduce i profitti e aumenta la quantità.",
-    "l'impresa massimizza la quantità.",
-    "un prezzo massimo aumenta i profitti."
+    "Per il principio della prospettiva di funzionamento",
+    "Per il principio del duplice aspetto",
+    "Nessuna delle altre risposte",
+    "Per il principio della misurazione monetaria"
   ],
   "answerIndex": 1
 },
 {
-  "id": "micro_q104",
-  "topic": "Microeconomia",
-  "question": "Un equilibrio di Nash:",
+  "id": "azi_q44",
+  "topic": "Economia Aziendale",
+  "question": "Il principio di identita' giuridica distinta sancisce:",
   "choices": [
-    "e' sempre Pareto-ottimale.",
-    "e' sempre ottimale.",
-    "puo' essere sub-ottimale rispetto al coordinamento.",
-    "non esiste senza strategie dominanti."
+    "Asserisce che la contabilita' fa riferimento alle aziende, considerate distintamente dalle persone che le possiedono",
+    "Asserisce che il bilancio include le risorse dell'azienda e delle persone che la possiedono",
+    "Asserisce che la contabilita' fa riferimento alle aziende, considerate distintamente dalle persone che le possiedono, ma solo nelle passivita'",
+    "Nessuna delle altre risposte"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q46",
+  "topic": "Economia Aziendale",
+  "question": "Il fair value e' certo:",
+  "choices": [
+    "Mai, ha sempre un grado di soggettivita'",
+    "Nella data in cui avviene l'acquisto",
+    "A chiusura del bilancio",
+    "Nessuna delle altre risposte"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q47",
+  "topic": "Economia Aziendale",
+  "question": "Il principio della misurazione monetaria prevede:",
+  "choices": [
+    "Che si possano sommare quantita' riferite a risorse di diversa natura se e solo se, siano misurate con gli stessi criteri di valutazione",
+    "Che si possano sommare quantita' riferite a risorse di diversa natura se e solo se, siano espresse con una unita' di misura omogenea",
+    "Che si possano sommare quantita' riferite a risorse di diversa natura se e solo se, abbiano anche la medesima destinazione",
+    "Nessuna delle altre risposte"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q48",
+  "topic": "Economia Aziendale",
+  "question": "I principi contabili internazionali (IAS/IFRS) prevedono la possibilita' che:",
+  "choices": [
+    "Le attivita' aziendali siano valorizzate al valore corrente",
+    "Le attivita' aziendali siano valorizzate al valore di acquisto",
+    "Nessuna delle altre risposte",
+    "Tutte le risposte sono vere"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q49",
+  "topic": "Economia Aziendale",
+  "question": "L'armonizzazione contabile:",
+  "choices": [
+    "E’ un intervento che si attua in azienda, finalizzato ad armonizzare gli strumenti contabili",
+    "E’ un intervento nato dall'iniziativa del legislatore nazionale",
+    "E’ un intervento nato come effetto della globalizzazione",
+    "Nessuna delle altre risposte"
   ],
   "answerIndex": 2
 },
 {
-  "id": "micro_q105",
-  "topic": "Microeconomia",
-  "question": "L'elasticità della domanda rispetto al reddito:",
+  "id": "azi_q50",
+  "topic": "Economia Aziendale",
+  "question": "Una risorsa per essere iscritta alle attivita' patrimoniali deve avere:",
   "choices": [
-    "e' sempre pari a 1.",
-    "e' positiva per i beni normali.",
-    "e' negativa per i beni normali.",
-    "e' sempre anelastica."
+    "Controllabilita', valore economico, costo misurabile",
+    "Controllabilita', valore economico",
+    "Controllabilita', valore economico, confrontabilita'",
+    "Nessuna delle altre risposte"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q51",
+  "topic": "Economia Aziendale",
+  "question": "Secondo la normativa italiana, il requisito della controllabilita':",
+  "choices": [
+    "Prevede che un bene possa essere inserito tra le attivita' di un'azienda solo se di sua proprieta'",
+    "Nessuna delle altre risposte",
+    "Prevede la possibilita' di controllare i valori a cui e' stato contabilizzato il patrimonio attivo",
+    "Prevede il valore contabilizzato sia verificabile solo secondo la normativa nazionale"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q52",
+  "topic": "Economia Aziendale",
+  "question": "Le fonti permanenti (o capitale permanente) e' dato:",
+  "choices": [
+    "Dalla somma di patrimonio netto e passivita' correnti",
+    "Dalla somma di attivita' e passivita'",
+    "Dalla somma di patrimonio netto e passivita' consolidate",
+    "Nessuna delle altre risposte"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q53",
+  "topic": "Economia Aziendale",
+  "question": "In contabilita' quando e come si stabilisce cosa e' «rilevante»?",
+  "choices": [
+    "Quando l'evento puo' influenzare una decisione dei destinatari dei documenti di Bilancio",
+    "Tutte le volte che un'azienda ha un costo o un ricavo",
+    "Sancisce che i proventi e i costi sono rilevanti solo quando sono ragionevolmente certi",
+    "Nessuna delle altre risposte"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q54",
+  "topic": "Economia Aziendale",
+  "question": "L'indice di durata dei crediti:",
+  "choices": [
+    "Nessuna delle altre risposte",
+    "Rappresenta il credito medio concesso ai propri clienti",
+    "Rappresenta il numero dei giorni di dilazione mediamente concesso ai propri clienti per l'incasso",
+    "Rappresenta il numero dei giorni medio tra un provento e l'altro"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q55",
+  "topic": "Economia Aziendale",
+  "question": "L'inventario fisico e' utile a:",
+  "choices": [
+    "Svalutare il magazzino iniziale del periodo successivo",
+    "Nessuna delle altre risposte",
+    "Valorizzare il magazzino iniziale del periodo successivo",
+    "Non ha alcuna altra funzione"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q56",
+  "topic": "Economia Aziendale",
+  "question": "Quali sono i limiti dell'indice di durata dei crediti?",
+  "choices": [
+    "Presume che le vendite siano distribuite uniformemente durante tutto l'anno e che la dilatazione concessa sia la stessa per tutti i clienti",
+    "Presume che il credito e la dilatazione concessa sia la stessa per tutti i clienti",
+    "Presume che le vendite siano distribuite uniformemente durante tutto l'anno e che il credito concesso sia lo stesso per tutti i clienti",
+    "Nessuna delle altre risposte"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q57",
+  "topic": "Economia Aziendale",
+  "question": "Cosa indica l'indice di durata dei crediti?",
+  "choices": [
+    "Nessuna delle altre risposte",
+    "Rappresenta il credito medio concesso ai propri clienti",
+    "Rappresenta il numero dei giorni di dilazione mediamente concesso ai propri clienti per l'incasso",
+    "Rappresenta il numero dei giorni medio tra un provento e l'altro"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q58",
+  "topic": "Economia Aziendale",
+  "question": "Cosa deve avvenire affinché un costo sia considerato di competenza dell'esercizio?",
+  "choices": [
+    "I costi sono di competenza dell'anno in cui vengono acquistate le materie prime",
+    "I costi sono di competenza dell'anno in cui i prodotti con essi realizzati sono anche venduti",
+    "Nessuna delle altre risposte",
+    "I costi sono di competenza dell'anno in cui si ha l'esborso monetario"
   ],
   "answerIndex": 1
 },
 {
-  "id": "micro_q106",
-  "topic": "Microeconomia",
-  "question": "La curva prezzo-consumo:",
+  "id": "azi_q59",
+  "topic": "Economia Aziendale",
+  "question": "Cosa prevede il principio di correlazione tra costi e ricavi?",
   "choices": [
-    "mantiene costanti i prezzi.",
-    "varia il prezzo di un bene mantenendo costanti le altre variabili.",
-    "deriva dalle curve di offerta.",
-    "lega domanda e reddito."
-  ],
-  "answerIndex": 1
-},
-{
-  "id": "micro_q107",
-  "topic": "Microeconomia",
-  "question": "La curva reddito-consumo:",
-  "choices": [
-    "mantiene costanti i prezzi.",
-    "varia il prezzo dei beni.",
-    "deriva dalle curve di offerta.",
-    "esprime il legame tra domanda e reddito."
+    "Nessuna delle altre risposte",
+    "I costi associati ai ricavi di un esercizio vanno contabilizzati nello stesso momento",
+    "I costi associati ai ricavi di un esercizio vanno contabilizzati nel periodo che si realizzano",
+    "I costi associati ai ricavi di un esercizio vanno contabilizzati in quello stesso periodo"
   ],
   "answerIndex": 3
 },
 {
-  "id": "micro_q108",
-  "topic": "Microeconomia",
-  "question": "La funzione di produzione e' rappresentata da:",
+  "id": "azi_q60",
+  "topic": "Economia Aziendale",
+  "question": "C'e' simmetria tra costi e relative uscite di cassa? Perché?",
   "choices": [
-    "x=f(p)",
-    "C=CT",
-    "y=f(v1, v2, ..., vn, K)",
-    "y=f(p; v1)"
+    "Nessuna delle altre risposte",
+    "Si, perché i costi devono essere contabilizzati nell'esercizio in cui si ha l'uscita di cassa",
+    "Si, perché nel momento in cui si ha un'uscita di cassa vengono contabilizzati i costi",
+    "No, perché i costi vengono contabilizzati quando vengono venduti i prodotti con essi realizzati"
   ],
-  "answerIndex": 2
+  "answerIndex": 3
 },
 {
-  "id": "micro_q109",
-  "topic": "Microeconomia",
-  "question": "In una condizione di monopolio il profitto e' definito da:",
+  "id": "azi_q61",
+  "topic": "Economia Aziendale",
+  "question": "Cosa si intende per costo?",
   "choices": [
-    "RT/CT",
-    "RT-CT",
-    "RT+CT",
-    "CT-RT"
+    "Il costo abbatte solo il patrimonio netto",
+    "Nessuna delle altre risposte",
+    "Il costo abbatte solo l'utile dell'esercizio",
+    "Il costo abbatte l'utile dell'esercizio e quindi il patrimonio netto"
   ],
-  "answerIndex": 1
+  "answerIndex": 3
 },
 {
-  "id": "micro_q110",
-  "topic": "Microeconomia",
-  "question": "Nel regime di concorrenza perfetta l'output che massimizza il profitto e' dato da:",
+  "id": "azi_q62",
+  "topic": "Economia Aziendale",
+  "question": "Qual è la differenza tra costi di produzione e costo del venduto di un'azienda?",
   "choices": [
-    "C'=R'=p",
-    "C'-R'=p",
-    "C=R=p",
-    "C'/R'=p"
+    "Non vi è alcuna differenza tra costi di produzione e costo del venduto",
+    "Nessuna delle altre risposte",
+    "Il totale dei costi di produzione e il costo del venduto vengono contabilizzati in momenti diversi",
+    "Il totale dei costi di produzione include anche i costi sostenuti per generare il magazzino, mentre il costo del venduto considera soltanto i costi sostenuti per ottenere la produzione che si è venduta."
   ],
-  "answerIndex": 0
+  "answerIndex": 3
 },
 {
-  "id": "micro_q111",
-  "topic": "Microeconomia",
-  "question": "Nel regime di concorrenza perfetta il livello di output che massimizza il profitto considerando le curve di costo medio e costo marginale e' dato da:",
+  "id": "azi_q63",
+  "topic": "Economia Aziendale",
+  "question": "Cosa si intende per costo del venduto?",
   "choices": [
-    "p*>pc",
-    "p*<pc",
-    "p*=pc",
-    "non e' possibile massimizzare il profitto."
-  ],
-  "answerIndex": 0
-},
-{
-  "id": "micro_q112",
-  "topic": "Microeconomia",
-  "question": "Un aumento del prezzo riduce il consumo desiderato per effetto sostituzione:",
-  "choices": [
-    "in quanto e' piu' conveniente consumare beni alternativi.",
-    "in quanto non e' piu' conveniente consumare beni alternativi.",
-    "in quanto e' piu' conveniente consumare beni complementari.",
-    "in quanto non e' piu' conveniente consumare beni di prima necessità."
-  ],
-  "answerIndex": 0
-},
-{
-  "id": "micro_q113",
-  "topic": "Microeconomia",
-  "question": "Un aumento del prezzo riduce il consumo desiderato per effetto del reddito:",
-  "choices": [
-    "perché riduce il potere d’acquisto e quindi le possibilità di consumo.",
-    "perché aumenta il potere d’acquisto e quindi le possibilità di consumo.",
-    "perché riduce il reddito quindi le possibilità di consumo.",
-    "perché riduce il consumo."
-  ],
-  "answerIndex": 0
-},
-{
-  "id": "micro_q114",
-  "topic": "Microeconomia",
-  "question": "Secondo l'efficienza paretiana:",
-  "choices": [
-    "l'allocazione delle risorse non sarà mai possibile.",
-    "l’allocazione e' efficiente se e' possibile aumentare l’utilità di un individuo lasciando invariata quella degli altri.",
-    "l’allocazione e' efficiente se non e' possibile aumentare l’utilità di qualcuno senza ridurre quella degli altri.",
-    "il consumatore non massimizza la propria utilità."
-  ],
-  "answerIndex": 2
-},
-{
-  "id": "micro_q115",
-  "topic": "Microeconomia",
-  "question": "L'efficienza paretiana si basa sul principio:",
-  "choices": [
-    "del massimo profitto.",
-    "dell’individualismo etico.",
-    "del collettivismo.",
-    "del minimo sforzo."
+    "Nessuna delle altre risposte",
+    "Si intende il costo della produzione venduta, e quindi non si tiene conto della produzione realizzata ma invenduta e conservata in magazzino",
+    "Si intende il costo della produzione venduta, e quindi si tiene conto della produzione realizzata",
+    "Si intende il costo del prodotto venduto."
   ],
   "answerIndex": 1
 },
 {
-  "id": "micro_q116",
-  "topic": "Microeconomia",
-  "question": "L'efficienza paretiana si basa sul principio:",
+  "id": "azi_q64",
+  "topic": "Economia Aziendale",
+  "question": "Cos'è il criterio del costo specifico?",
   "choices": [
-    "dell'aggregazione.",
-    "del massimo profitto.",
-    "del minimo sforzo.",
-    "del collettivismo."
-  ],
-  "answerIndex": 0
-},
-{
-  "id": "micro_q117",
-  "topic": "Microeconomia",
-  "question": "Secondo il principio dell'individualismo etico:",
-  "choices": [
-    "ciascun individuo non riesce a valutare la propria utilità.",
-    "ciascun individuo e' il miglior giudice della propria utilità.",
-    "ciascun individuo e' il peggior giudice della propria utilità.",
-    "ciascun individuo e' sempre solo."
+    "Nessuna delle altre risposte",
+    "Il criterio del costo specifico può essere applicato solo quando il costo delle materie o delle merci sia identificabile agevolmente in modo diretto",
+    "Il criterio del costo specifico può essere applicato quando si vuole calcolare il costo del venduto",
+    "Il criterio del costo specifico può essere applicato anche quando il costo delle materie o delle merci non è identificabile in modo diretto"
   ],
   "answerIndex": 1
 },
 {
-  "id": "micro_q118",
-  "topic": "Microeconomia",
-  "question": "Secondo il principio dell'aggregazione:",
+  "id": "azi_q65",
+  "topic": "Economia Aziendale",
+  "question": "Cosa si intende per metodo indiretto per il calcolo del costo del venduto?",
   "choices": [
-    "le preferenze individuali vanno considerate in modo congiunto.",
-    "le preferenze individuali vanno considerate in modo disgiunto.",
-    "le preferenze individuali non vanno considerate.",
-    "non esistono preferenze individuali."
+    "Tale metodo presume che i prodotti che sono stati disponibili per la vendita durante un periodo amministrativo",
+    "Tale metodo viene utilizzato quando è possibile avere un magazzino perpetuo",
+    "Nessuna delle altre risposte",
+    "Tale metodo presume che i prodotti che non sono stati disponibili per la vendita durante un periodo amministrativo, al termine dell'anno si siano tradotti o in magazzino finale o in vendita"
   ],
-  "answerIndex": 0
+  "answerIndex": 3
 },
 {
-  "id": "micro_q119",
-  "topic": "Microeconomia",
-  "question": "Quali sono i filoni principali delle teorie della distribuzione:",
+  "id": "azi_q66",
+  "topic": "Economia Aziendale",
+  "question": "Qual è la periodicità richiesta per l'inventario fisico per valorizzare il magazzino iniziale del periodo successivo?",
   "choices": [
-    "teorie classiche.",
-    "teorie classiche e neoclassiche.",
-    "teorie del sovrappiù e teorie della produttività marginale.",
-    "teorie della produttività marginale."
+    "Mensilmente",
+    "Nessuna delle altre risposte",
+    "Trimestralmente",
+    "Annualmente"
+  ],
+  "answerIndex": 3
+},
+{
+  "id": "azi_q67",
+  "topic": "Economia Aziendale",
+  "question": "Perché per il calcolo del costo del venduto è necessario effettuare un inventario fisico?",
+  "choices": [
+    "L'inventario fisico permette di calcolare indirettamente il costo dei prodotti che sono stati venduti, in quanto non è possibile iscrivere ogni articolo al costo",
+    "Nessuna delle altre risposte",
+    "L'inventario fisico permette di calcolare indirettamente il costo dei prodotti che sono stati venduti, in quanto ogni articolo è iscritto al costo",
+    "L'inventario fisico permette di calcolare direttamente il costo dei prodotti che sono stati venduti, in quanto ogni articolo è iscritto al costo"
   ],
   "answerIndex": 2
 },
 {
-  "id": "micro_q120",
-  "topic": "Microeconomia",
-  "question": "Il sovrappiù può essere definito come:",
+  "id": "azi_q68",
+  "topic": "Economia Aziendale",
+  "question": "Quali altre utilità ha l'inventario fisico?",
   "choices": [
-    "parte del prodotto sociale complessivo che eccede la ricostituzione dei mezzi di produzione consumati.",
-    "il reddito del consumatore.",
-    "il salario.",
-    "parte del profitto delle imprese."
+    "Svalutare il magazzino iniziale del periodo successivo",
+    "Nessuna delle altre risposte",
+    "Non ha alcuna altra funzione",
+    "Valorizzare il magazzino iniziale del periodo successivo"
+  ],
+  "answerIndex": 3
+},
+{
+  "id": "azi_q69",
+  "topic": "Economia Aziendale",
+  "question": "Qual è il ruolo dell'inventario perpetuo per il calcolo del costo del venduto?",
+  "choices": [
+    "Avere una contabilità sommaria del magazzino durante tutto l'esercizio in corso",
+    "Avere una contabilità del magazzino che comunque non è in grado di attribuire i relativi costi specifici",
+    "Nessuna delle altre risposte",
+    "Avere una contabilità puntuale del magazzino, in grado di rilevare tutti i prelevamenti e di attribuire i relativi costi specifici"
+  ],
+  "answerIndex": 3
+},
+{
+  "id": "azi_q70",
+  "topic": "Economia Aziendale",
+  "question": "Quale è il presupposto sul quale si basa il metodo indiretto per il calcolo del magazzino?",
+  "choices": [
+    "Quando si vuole velocizzare l'attività di valutazione del magazzino",
+    "Quando non si ha a disposizione un software idoneo",
+    "Si presuppone un basso numero di articoli di elevato valore",
+    "Nessuna delle altre risposte"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q71",
+  "topic": "Economia Aziendale",
+  "question": "Quando è consigliabile utilizzare il metodo indiretto per il calcolo del costo del venduto?",
+  "choices": [
+    "Quando non si ha a disposizione un software idoneo",
+    "Nessuna delle altre risposte",
+    "Quando si hanno numerosi articoli di basso valore, che non permettono di avere un registro di magazzino perpetuo",
+    "Quando si vuole velocizzare l'attività di valutazione del magazzino"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q72",
+  "topic": "Economia Aziendale",
+  "question": "Il rendiconto finanziario secondo il metodo indiretto prevede, tra l'altro, che:",
+  "choices": [
+    "Nessuna delle altre risposte",
+    "Tutti i costi che hanno generato una uscita di cassa sono sottratti dal risultato di esercizio, mentre tutti i ricavi che hanno generato una entrata di cassa, sono aggiunti al risultato di esercizio",
+    "Tutti i costi che hanno generato una uscita di cassa (ad es. gli ammortamenti) sono aggiunti al risultato di esercizio, mentre tutti i ricavi che hanno generato una entrata di cassa, sono sottratti dal risultato di esercizio",
+    "L'aumento di una attività fissa o circolante implica un aumento della liquidità ed è sottratto dal risultato di esercizio, mentre la diminuzione implica una diminuzione della liquidità ed è aggiunto al risultato di periodo"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q73",
+  "topic": "Economia Aziendale",
+  "question": "Relativamente alla organizzazione aziendale la macro-struttura:",
+  "choices": [
+    "riguarda la struttura dei costi",
+    "riguarda la struttura dei ricavi",
+    "non riguarda l’insieme dei ruoli o delle posizioni o delle varie funzioni in cui si articola il dato modello organizzativo, e si estrinseca, più in particolare, nella divisione del lavoro della componente personale",
+    "riguarda l’insieme dei ruoli o delle posizioni o delle varie funzioni in cui si articola il dato modello organizzativo, e si estrinseca, più in particolare, nella divisione del lavoro della componente personale di decisione, di coordinamento e controllo del personale presente in azienda"
+  ],
+  "answerIndex": 3
+},
+{
+  "id": "azi_q74",
+  "topic": "Economia Aziendale",
+  "question": "Relativamente alla organizzazione aziendale i meccanismi operativi:",
+  "choices": [
+    "riguardano i principi contabili aziendali",
+    "riguardano l’insieme dei ruoli o delle posizioni o delle varie funzioni in cui si articola il dato modello organizzativo, e si estrinseca, più in particolare, nella divisione del lavoro della componente personale",
+    "riguardano, invece, le modalità, le regole con cui i vari operatori interagiscono in azienda e riguardano i processi di comunicazione, di decisione, di coordinamento e controllo del personale presente in azienda",
+    "riguardano le operazioni di gestione ordinaria"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q75",
+  "topic": "Economia Aziendale",
+  "question": "Le strutture organizzative burocratiche:",
+  "choices": [
+    "sono strutture essenzialmente elastiche, caratterizzate da meccanismi formali",
+    "sono strutture essenzialmente rigide, caratterizzate da meccanismi informali",
+    "sono strutture essenzialmente elastiche",
+    "sono strutture essenzialmente rigide, caratterizzate da meccanismi formali"
+  ],
+  "answerIndex": 3
+},
+{
+  "id": "azi_q76",
+  "topic": "Economia Aziendale",
+  "question": "Le strutture organizzative organiche:",
+  "choices": [
+    "sono strutture non organizzative",
+    "sono rigide e formali",
+    "sono meno rigide e più pronte alla variabilità aziendale",
+    "sono legate alla variazione ambientale"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q77",
+  "topic": "Economia Aziendale",
+  "question": "Gli organi di Line svolgono:",
+  "choices": [
+    "funzioni di strategia",
+    "funzioni non organiche con finalità secondarie",
+    "funzioni organiche con finalità primarie",
+    "funzioni prettamente burocratiche"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q78",
+  "topic": "Economia Aziendale",
+  "question": "Gli organi di Staff svolgono:",
+  "choices": [
+    "funzioni non organiche con finalità secondarie",
+    "funzioni di strategia",
+    "funzioni organiche con finalità primarie",
+    "funzioni prettamente burocratiche"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q79",
+  "topic": "Economia Aziendale",
+  "question": "Le funzioni organiche rispondono:",
+  "choices": [
+    "al principio dell’efficacia strategica",
+    "al principio dell’efficacia contabile",
+    "al principio dell’efficacia operativa",
+    "al principio dell’efficacia sociale"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q80",
+  "topic": "Economia Aziendale",
+  "question": "Le funzioni organiche rispondono:",
+  "choices": [
+    "al principio dell’efficacia strategica",
+    "al principio dell’efficacia contabile",
+    "al principio dell’efficacia opertaiva",
+    "al principio dell’efficacia sociale"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q81",
+  "topic": "Economia Aziendale",
+  "question": "Le funzioni di line, invece, che costituiscono la struttura portante, vitale dell’azienda, rappresentate da:",
+  "choices": [
+    "Produzione e Vendite",
+    "Vendite e Acquisti",
+    "Amministrazione contabile",
+    "Acquisti, Vendite, Ricerca e Sviluppo, Produzione, Progettazione"
+  ],
+  "answerIndex": 3
+},
+{
+  "id": "azi_q82",
+  "topic": "Economia Aziendale",
+  "question": "Il carattere dell'autonomia per l'azienda significa che:",
+  "choices": [
+    "essa ha bisogno di economie esterne",
+    "trova in sé la capacità di vivere e svilupparsi per il miglior conseguimento delle proprie finalità, senza il sistematico ricorso, ove ne avesse bisogno, ad economie esterne",
+    "riesce a svilupparsi in autonomia ricorrendo ad economie esterne",
+    "si sviluppa in autonomia la sola parte organizzativa"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q83",
+  "topic": "Economia Aziendale",
+  "question": "Il carattere dell'equifinalità dell'azienda:",
+  "choices": [
+    "sintetizza l'attitudine della data azienda a conseguire diverse situazioni finali partendo da combinazioni produttive, commerciali o distributive differenti, e, quindi, combinando variamente capitale e lavoro",
+    "sintetizza l'attitudine della data azienda a conseguire le stesse situazioni finali partendo da combinazioni produttive, commerciali o distributive differenti, e, quindi, combinando variamente capitale e lavoro",
+    "sintetizza l'attitudine della data azienda a non conseguire le stesse situazioni finali partendo da combinazioni produttive, commerciali o distributive differenti, e, quindi, combinando variamente capitale e lavoro",
+    "sintetizza l'attitudine della data azienda a combinare variamente capitale e lavoro"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q84",
+  "topic": "Economia Aziendale",
+  "question": "Con il termine finalismo aziendale si intende:",
+  "choices": [
+    "la massima espressione del soggetto economico in tema di bilancio",
+    "la massima espressione del soggetto economico in tema di strategie",
+    "la massima espressione del soggetto economico in tema di contabilità",
+    "la massima espressione del soggetto economico in tema di marketing"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q85",
+  "topic": "Economia Aziendale",
+  "question": "Le strategie di flessibilità:",
+  "choices": [
+    "sono riferite alla struttura aziendale",
+    "sono riferite all’ambiente di riferimento",
+    "sono riferite alla contabilità",
+    "sono riferite al marketing"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q86",
+  "topic": "Economia Aziendale",
+  "question": "Le strategie di dominanza:",
+  "choices": [
+    "riferite all’ambiente di riferimento",
+    "sono riferite alla struttura aziendale",
+    "sono riferite alla contabilità",
+    "sono riferite al marketing"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q87",
+  "topic": "Economia Aziendale",
+  "question": "Le strategie di flessibilità riguardano:",
+  "choices": [
+    "strategie del personale, strategie economico-finanziarie, strategie organizzative",
+    "strategie di portafoglio e strategie competitive",
+    "strategie del personale e strategie competitive",
+    "strategie organizzative e strategie di portafoglio"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q88",
+  "topic": "Economia Aziendale",
+  "question": "Le strategie di dominanza riguardano:",
+  "choices": [
+    "strategie del personale, strategie economico-finanziarie, strategie organizzative",
+    "strategie di portafoglio e strategie competitive",
+    "strategie del personale e strategie competitive",
+    "strategie organizzative e strategie di portafoglio"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q89",
+  "topic": "Economia Aziendale",
+  "question": "l’Orientamento Strategico di Fondo (OSF) è costituito:",
+  "choices": [
+    "dalle idee, dalle scelte economiche",
+    "dalle idee, dalle convinzioni di fondo, dai valori custoditi dagli uomini chiave d’impresa",
+    "dai valori etici dell'ambiente esterno",
+    "dall'orientamento politico"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q90",
+  "topic": "Economia Aziendale",
+  "question": "La focalizzazione:",
+  "choices": [
+    "viene ottenuta focalizzando l’attenzione, ad ogni livello dell’organizzazione aziendale, sulla razionalizzazione dei processi interni, attraverso l’adozione di piani di riduzione di costo e sul loro stretto monitoraggio, minimizzando i costi nelle varie aree aziendali",
+    "consiste nel ricercare una posizione di vantaggio nei costi o di differenziazione in un’area delimitata, una cosiddetta “nicchia di mercato”",
+    "si concretizza nella realizzazione di un prodotto o dell’erogazione di un servizio con un carattere di unicità che lo distingua dalla concorrenza",
+    "consiste nel ricercare il miglior costo del mercato"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q91",
+  "topic": "Economia Aziendale",
+  "question": "La differenziazione:",
+  "choices": [
+    "si concretizza nella realizzazione di un prodotto o dell’erogazione di un servizio con un carattere di unicità che lo distingua dalla concorrenza",
+    "viene ottenuta focalizzando l’attenzione, ad ogni livello dell’organizzazione aziendale, sulla razionalizzazione dei processi interni, attraverso l’adozione di piani di riduzione di costo e sul loro stretto monitoraggio, minimizzando i costi nelle varie aree aziendali",
+    "consiste nel ricercare una posizione di vantaggio nei costi o di differenziazione in un’area delimitata, una cosiddetta “nicchia di mercato”",
+    "consiste nel ricercare il miglior costo di produzione"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q92",
+  "topic": "Economia Aziendale",
+  "question": "La compagnia irlandese Ryanair è un chiaro esempio di strategia:",
+  "choices": [
+    "di focalizzazione orientata al costo",
+    "di differenziazione",
+    "di focalizzazione orientata alla differenziazione",
+    "di leadership di costo"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q93",
+  "topic": "Economia Aziendale",
+  "question": "“Think different” è uno dei più famosi slogan pubblicitari della Apple risponde ai criteri della strategia:",
+  "choices": [
+    "di focalizzazione orientata al costo",
+    "di differenziazione",
+    "di focalizzazione orientata alla differenziazione",
+    "di leadership di costo"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q94",
+  "topic": "Economia Aziendale",
+  "question": "Affinchè la differenziazione possa determinare un vantaggio competitivo bisogna tener conto di alcune condizioni:",
+  "choices": [
+    "unicità, percezione dell'unicità e sostenibilità economica",
+    "unicità, percezione dell'unicità",
+    "percezione dell'unicità e sostenibilità economica",
+    "unicità, sostenibilità economica"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q95",
+  "topic": "Economia Aziendale",
+  "question": "La catena del valore è definita come:",
+  "choices": [
+    "uno strumento di contabilità analitica",
+    "una leva del marketing mix",
+    "uno strumento di analisi delle vendite",
+    "lo strumento per l’analisi delle attività e delle relazioni tramite cui l’azienda crea valore."
+  ],
+  "answerIndex": 3
+},
+{
+  "id": "azi_q96",
+  "topic": "Economia Aziendale",
+  "question": "All’interno della catena del valore si inseriscono una serie di attività distinte tra:",
+  "choices": [
+    "di acquisto e vendita",
+    "di investimento e finanziamento",
+    "primarie e secondarie",
+    "amministrative ed organizzative"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q97",
+  "topic": "Economia Aziendale",
+  "question": "Le alleanze strategiche possono essere:",
+  "choices": [
+    "orizzontali, verticali",
+    "solo trasversali",
+    "orizzontali, verticali e trasversali",
+    "solo verticali"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q98",
+  "topic": "Economia Aziendale",
+  "question": "Le alleanze orizzontali:",
+  "choices": [
+    "sono accordi tra imprese e/o soggetti presenti in settori diversi, le cui attività non fanno parte della medesima filiera produttiva",
+    "sono accordi tra imprese e/o soggetti che operano nello stesso settore ma svolgono attività differenti.",
+    "sono accordi tra imprese e/o soggetti presenti in settori diversi, le cui attività fanno parte della medesima filiera produttiva",
+    "sono accordi di cooperazione tra imprese e/o soggetti che operano nello stesso settore e svolgono le medesime attività"
+  ],
+  "answerIndex": 3
+},
+{
+  "id": "azi_q99",
+  "topic": "Economia Aziendale",
+  "question": "Le alleanze verticali:",
+  "choices": [
+    "sono accordi tra imprese e/o soggetti che operano nello stesso settore ma svolgono attività differenti.",
+    "sono accordi tra imprese e/o soggetti presenti in settori diversi, le cui attività non fanno parte della medesima filiera produttiva",
+    "sono accordi tra imprese e/o soggetti che operano nello stesso settore e svolgono le stesse attività",
+    "sono accordi tra imprese e/o soggetti presenti in settori uguali, le cui attività fanno parte della medesima filiera produttiva"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q100",
+  "topic": "Economia Aziendale",
+  "question": "Le alleanze trasversali:",
+  "choices": [
+    "sono accordi di cooperazione tra imprese e/o soggetti che operano nello stesso settore e svolgono le medesime attività",
+    "sono accordi di cooperazione tra soggetti che svolgono differenti attività",
+    "sono accordi tra imprese e/o soggetti che operano nello stesso settore ma svolgono attività differenti.",
+    "sono accordi tra imprese e/o soggetti presenti in settori diversi, le cui attività non fanno parte della medesima filiera produttiva"
+  ],
+  "answerIndex": 3
+},
+{
+  "id": "azi_q101",
+  "topic": "Economia Aziendale",
+  "question": "L’impresa padronale:",
+  "choices": [
+    "è caratterizzata da una compagine azionaria stabile e concentrata in pochi soggetti, tipica del modello storico della grande impresa italiana",
+    "è caratterizzata da una compagine di azionisti articolata, composita, senza posizioni dominanti di controllo ma fedele, almeno nel suo nucleo stabile. È il modello di impresa “renana”",
+    "si caratterizza per la polverizzazione del capitale tra una moltitudine di azionisti eterogenei e per una elevatissima velocità di circolazione delle azioni.",
+    "nessuna delle precedenti"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q102",
+  "topic": "Economia Aziendale",
+  "question": "Le scritture di ammortamento sono:",
+  "choices": [
+    "scritture di gestione ordinaria",
+    "scritture di programmazione",
+    "scritture di completamento",
+    "scritture di assestamento"
+  ],
+  "answerIndex": 3
+},
+{
+  "id": "azi_q103",
+  "topic": "Economia Aziendale",
+  "question": "La rilevazione di ratei attivi e passivi configura scritture:",
+  "choices": [
+    "di ammortamento",
+    "di integrazione",
+    "di rettifica",
+    "di completamento"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q104",
+  "topic": "Economia Aziendale",
+  "question": "La rilevazione di risconti attivi e passivi configura scritture:",
+  "choices": [
+    "di ammortamento",
+    "di integrazione",
+    "di rettifica",
+    "di completamento"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q105",
+  "topic": "Economia Aziendale",
+  "question": "La rilevazione di crediti da liquidare configura scritture:",
+  "choices": [
+    "di ammortamento",
+    "di integrazione",
+    "di rettifica",
+    "di completamento"
+  ],
+  "answerIndex": 3
+},
+{
+  "id": "azi_q106",
+  "topic": "Economia Aziendale",
+  "question": "La rilevazione e valutazione delle rimanenze finali configura scritture:",
+  "choices": [
+    "di ammortamento",
+    "di integrazione",
+    "di rettifica",
+    "di completamento"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q107",
+  "topic": "Economia Aziendale",
+  "question": "La svalutazione dei crediti configura scritture:",
+  "choices": [
+    "di ammortamento",
+    "di integrazione",
+    "di rettifica",
+    "di completamento"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q108",
+  "topic": "Economia Aziendale",
+  "question": "La determinazione e rilevazione della quota di TFR configura scritture:",
+  "choices": [
+    "di ammortamento",
+    "di integrazione",
+    "di rettifica",
+    "di completamento"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q109",
+  "topic": "Economia Aziendale",
+  "question": "Il just in time consente di contrarre:",
+  "choices": [
+    "i tempi di produzione",
+    "i costi di magazzinaggio",
+    "i tempi di approvvigionamento",
+    "i tempi di dilazione di pagamento concessi ai clienti"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q110",
+  "topic": "Economia Aziendale",
+  "question": "Il ciclo economico ha inizio con:",
+  "choices": [
+    "il sostenimento dei costi e termina con il conseguimento dei ricavi",
+    "l'avvio della produzione e termina con il conseguimento dei ricavi",
+    "il pagamento degli acquisti e termina con la riscossione delle vendite",
+    "il sostenimento dei costi e termina con la riscossione delle vendite"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q111",
+  "topic": "Economia Aziendale",
+  "question": "La conversione di obbligazioni in azioni della società provoca:",
+  "choices": [
+    "un aumento del patrimonio netto",
+    "una diminuzione del patrimonio netto",
+    "nessuna modifica del patrimonio netto",
+    "nessuna modifica del capitale sociale"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q112",
+  "topic": "Economia Aziendale",
+  "question": "Il diritto di opzione:",
+  "choices": [
+    "tende a tutelare i vecchi azionisti",
+    "non può essere ceduto a terzi",
+    "viene corrisposto dai nuovi azionisti agli amministratori dell'azienda",
+    "viene corrisposto dai vecchi azionisti agli amministratori dell'azienda"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q113",
+  "topic": "Economia Aziendale",
+  "question": "Il decremento delle rimanenze di merci partecipa alla formazione del risultato economico:",
+  "choices": [
+    "nel costo della produzione con segno positivo",
+    "nel costo della produzione con segno negativo",
+    "nel valore della produzione con segno positivo",
+    "nel valore della produzione con segno negativo"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q114",
+  "topic": "Economia Aziendale",
+  "question": "Se il valore di cessione di un bene strumentale è inferiore al suo valore contabile è necessario rilevare:",
+  "choices": [
+    "una minusvalenza straordinaria",
+    "una minusvalenza ordinaria",
+    "una plusvalenza ordinaria",
+    "una plusvalenza straordinaria"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q115",
+  "topic": "Economia Aziendale",
+  "question": "Le spese di manutenzione e riparazione eseguite da terzi:",
+  "choices": [
+    "sono deducibili nella misura del 5% del valore dei beni ammortizzabili risultanti all'inizio dell'esercizio",
+    "sono deducibili nella misura del 5% del valore dei beni a cui si riferiscono",
+    "non sono deducibili",
+    "sono interamente deducibili"
+  ],
+  "answerIndex": 3
+},
+{
+  "id": "azi_q116",
+  "topic": "Economia Aziendale",
+  "question": "Nelle imprese industriali il costo del venduto è formato dal seguente aggregato:",
+  "choices": [
+    "esistenze iniziali + acquisti – rimanenze finali",
+    "valore della produzione – costi della produzione",
+    "esistenze iniziali + acquisti + costi di produzione – rimanenze finali",
+    "esistenze iniziali + acquisti – rimanenze finali + costi commerciali"
+  ],
+  "answerIndex": 2
+},
+{
+  "id": "azi_q117",
+  "topic": "Economia Aziendale",
+  "question": "Il pagamento dei dividendi agli azionisti costituisce:",
+  "choices": [
+    "una fonte di risorse finanziarie",
+    "un impiego di risorse finanziarie",
+    "un costo monetario",
+    "un costo non monetario"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": "azi_q118",
+  "topic": "Economia Aziendale",
+  "question": "Il seguente progetto: tempo 0 30 flussi 3.5 −50 ha un TIR pari a:",
+  "choices": [
+    "9,9269",
+    "7,0244%",
+    "1,5342%",
+    "12,22%"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q119",
+  "topic": "Economia Aziendale",
+  "question": "La capitalizzazione delle riserve comporta:",
+  "choices": [
+    "nessun flusso finanziario",
+    "un aumento del patrimonio circolante netto",
+    "un aumento del patrimonio netto",
+    "un aumento delle disponibilità monetarie nette"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q120",
+  "topic": "Economia Aziendale",
+  "question": "Il cash flow operazionale:",
+  "choices": [
+    "rappresenta la disponibilità monetaria netta creata dall'attività operativa",
+    "rappresenta la disponibilità monetaria netta creata dalla gestione finanziaria",
+    "coincide con il reddito d'esercizio",
+    "coincide con il risultato della gestione finanziaria"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q121",
+  "topic": "Economia Aziendale",
+  "question": "Il risarcimento assicurativo per un incendio sui beni di magazzino rappresenta:",
+  "choices": [
+    "una sopravvenienza attiva straordinaria",
+    "una sopravvenienza attiva ordinaria",
+    "una sopravvenienza passiva straordinaria",
+    "una insussistenza passiva straordinaria"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": "azi_q122",
+  "topic": "Economia Aziendale",
+  "question": "Rientra tra i ricavi non monetari:",
+  "choices": [
+    "l'incremento delle immobilizzazioni per lavori interni",
+    "i fitti attivi",
+    "la variazione delle rimanenze di prodotti",
+    "gli arrotondamenti attivi"
   ],
   "answerIndex": 0
 }
 ]
+
+

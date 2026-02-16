@@ -167,8 +167,8 @@ button:disabled{
 }
 
 .answers{
-  display:grid;
-  grid-template-columns: 1fr;
+  display:flex;
+  flex-direction:column;
   gap:10px;
 }
 
@@ -268,7 +268,13 @@ button:disabled{
   margin-bottom: 10px;
 }
 
-/* Responsive */
-@media (min-width: 820px){
-  .answers{ grid-template-columns: 1fr 1fr; }
+.answer{
+  display:flex;
+  align-items:flex-start;
+  gap:10px;
+}
+
+.answer .letter{
+  font-weight:800;
+  min-width:24px;
 }
